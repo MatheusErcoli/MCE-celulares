@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: #000 !important;
+}
+.bg-purple{
+    background-color: purple;
+}
+.navbar-nav .nav-link {
+    color: #fff !important; 
+}
+li{
+    margin: 0 20px;
+    font-size: 20px;
+}
+.linha{
+    margin: 3px 20px 0px 20px;
+}
+@media(max-width: 720px){
+   .navbar-toggler {
+    border-color: #fff !important;
+    color: #fff !important;
+}
+.navbar-toggler-icon {
+    filter: invert(1);
+}
+}
