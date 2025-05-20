@@ -4,9 +4,7 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-body {
-    background-color: #000 !important;
-}
+
 .bg-purple{
     background-color: purple;
 }
@@ -28,4 +26,41 @@ li{
 .navbar-toggler-icon {
     filter: invert(1);
 }
+}
+.titulo{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+strong{
+    color: purple;
+}
+p{
+    font-size: 22px;
+    padding-top: 250px;
+    text-align: center;
+    font-weight: bold;
+}
+.quadrado{
+    border: black 1px solid;
+    border-radius: 10px;
+    text-align: center;
+}
+.botao{
+    text-decoration: none;
+    color: purple;
+    font-weight: bold;
+    padding-bottom: 50px;
+    font-size: 18px;
+}
+.btn-purple{
+    background-color: purple !important;
+    color: white !important;
+}
+.btn-purple:hover{
+    background-color: white !important;
+    color: purple !important;
+}
+@media(max-width:720px){
+    
 }
