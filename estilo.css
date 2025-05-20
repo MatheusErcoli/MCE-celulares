@@ -8,15 +8,16 @@
 .bg-purple{
     background-color: purple;
 }
+.hover:hover{
+    border-bottom: white 5px solid;
+    transition: 0.3s;
+}
 .navbar-nav .nav-link {
     color: #fff !important; 
 }
 li{
     margin: 0 20px;
     font-size: 20px;
-}
-.linha{
-    margin: 3px 20px 0px 20px;
 }
 @media(max-width: 720px){
    .navbar-toggler {
@@ -31,22 +32,28 @@ li{
     margin-top: 100px;
     text-align: center;
     margin-bottom: 25px;
-}
-strong{
-    color: purple;
+    font-family: roboto;
 }
 p{
     font-size: 22px;
     text-align: center;
     font-weight: bold;
 }
+.card{
+    box-shadow: 0 0 15px #555 !important;
+}
+.card-body{
+    background-color: black !important;
+    color: white !important;
+    border-radius: 0 0 10px 10px;
+}
 .btn-purple{
-    background-color: purple !important;
+    background-color: purple!important;
     color: white !important;
 }
 .btn-purple:hover{
-    background-color: black !important;
-    color: white !important;
+    background-color: white !important;
+    color: purple !important;
 }
 footer{
     background-color: purple;
@@ -58,5 +65,8 @@ footer{
 }
 
 @media(max-width:720px){
-    
+    .outrocard{
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
 }
