@@ -442,206 +442,251 @@ $Xiaomi =  [
 $redmi = [
     [
         "titulo" => "Redmi Note 14 Pro+ 5G",
+        "imagem" => "celulares/iphone/redmi/redminote14pro+5g.jpg",
         "informacoes" => "Tela: 6,67 Polegadas OLED 120Hz, Armazenamento: 256GB, 512GB, Câmera traseira: 200MP + 8MP + 2MP, Processador: Snapdragon 7s Gen 3, RAM: 12GB"
     ],
     [
         "titulo" => "Redmi Note 14 Pro 5G",
+        "imagem" => "celulares/iphone/redmi/redminote14pro5g.jpg",
         "informacoes" => "Tela: 6,67 Polegadas OLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: 200MP + 8MP + 2MP, Processador: MediaTek 7300-Ultra, RAM: 8GB"
     ],
     [
         "titulo" => "Redmi Note 14 Pro",
+        "imagem" => "celulares/iphone/redmi/redminote14pro.jpg",
         "informacoes" => "Tela: 6,67 Polegadas OLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: 200MP + 8MP + 2MP, Processador: MediaTek 7300-Ultra, RAM: 8GB"
     ],
     [
         "titulo" => "Redmi Note 14 5G",
+        "imagem" => "celulares/iphone/redmi/redminote145g.jpg",
         "informacoes" => "Tela: 6,67 Polegadas LCD 120Hz, Armazenamento: 128GB, Câmera traseira: 108MP + 2MP, Processador: MediaTek Dimensity 6100+, RAM: 6GB"
     ],
     [
         "titulo" => "Redmi Note 14",
+        "imagem" => "celulares/iphone/redmi/redminote14.jpg",
         "informacoes" => "Tela: 6,67 Polegadas LCD 120Hz, Armazenamento: 128GB, Câmera traseira: 108MP + 2MP, Processador: MediaTek Helio G85, RAM: 6GB"
     ],
     [
         "titulo" => "Redmi K60",
+        "imagem" => "celulares/iphone/redmi/redmik60.jpg",
         "informacoes" => "Tela: 6,67 Polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, 512GB, Câmera traseira: 64MP + 8MP + 2MP, Processador: Snapdragon 8+ Gen 1, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Redmi 12",
+        "imagem" => "celulares/iphone/redmi/redmi12.jpg",
         "informacoes" => "Tela: 6,79 Polegadas FHD+ 90Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla 50MP + 8MP + 2MP, Processador: MediaTek Helio G88, RAM: 4GB, 8GB"
     ],
     [
         "titulo" => "Redmi 10",
+        "imagem" => "celulares/iphone/redmi/redmi10.jpg",
         "informacoes" => "Tela: 6,5 Polegadas FHD+ 90Hz, Armazenamento: 64GB, 128GB, Câmera traseira: Quádrupla 50MP + 8MP + 2MP + 2MP, Processador: MediaTek Helio G88, RAM: 4GB, 6GB"
     ],
     [
         "titulo" => "Redmi 9T",
+        "imagem" => "celulares/iphone/redmi/redmi9t.jpg",
         "informacoes" => "Tela: 6,53 Polegadas FHD+, Armazenamento: 64GB, 128GB, Câmera traseira: Quádrupla 48MP + 8MP + 2MP + 2MP, Processador: Snapdragon 662, RAM: 4GB, 6GB"
     ],
     [
         "titulo" => "Redmi 9A",
+        "imagem" => "celulares/iphone/redmi/redmi9a.jpg",
         "informacoes" => "Tela: 6,53 Polegadas HD+, Armazenamento: 32GB, 64GB, 128GB, Câmera traseira: 13MP, Processador: MediaTek Helio G25, RAM: 2GB, 3GB, 4GB"
     ],
     [
         "titulo" => "Redmi 9",
+        "imagem" => "celulares/iphone/redmi/redmi9.jpg",
         "informacoes" => "Tela: 6,53 Polegadas FHD+, Armazenamento: 32GB, 64GB, 128GB, Câmera traseira: Quádrupla 13MP + 8MP + 5MP + 2MP, Processador: MediaTek Helio G80, RAM: 3GB, 4GB, 6GB"
     ]
 ];
 $motorola = [
     [
         "titulo" => "Motorola Moto G04s",
+        "imagem" => "celulares/iphone/motorola/motorolamotog04s.jpg",
         "informacoes" => "Tela: 6,56 polegadas LCD 90Hz, Armazenamento: 128 GB, Câmera traseira: 50 MP, Processador: Unisoc T606, RAM: 4 GB"
     ],
     [
         "titulo" => "Motorola Moto G24",
+        "imagem" => "celulares/iphone/motorola/motorolamotog24.jpg",
         "informacoes" => "Tela: 6,56 polegadas LCD 90Hz, Armazenamento: 128 GB, Câmera traseira: Dupla 50 MP + 2 MP, Processador: MediaTek Helio G85, RAM: 4 GB"
     ],
     [
         "titulo" => "Motorola Moto G35 5G",
+        "imagem" => "celulares/iphone/motorola/motorolamotog355g.jpg",
         "informacoes" => "Tela: 6,5 polegadas LCD, Armazenamento: 128 GB, Câmera traseira: Dupla 50 MP + 2 MP, Processador: MediaTek Dimensity 6100+, RAM: 4 GB"
     ],
     [
         "titulo" => "Motorola Razr 50 Ultra",
+        "imagem" => "celulares/iphone/motorola/motorolarazr50ultra.jpg",
         "informacoes" => "Tela: 6,9 polegadas P-OLED dobrável 165Hz, Armazenamento: 256 GB, Câmera traseira: Dupla 50 MP + 50 MP, Processador: Snapdragon 8+ Gen 1, RAM: 12 GB"
     ],
     [
         "titulo" => "Motorola Edge 30 Neo",
+        "imagem" => "celulares/iphone/motorola/motorolaedge30neo.jpg",
         "informacoes" => "Tela: 6,28 polegadas P-OLED 120Hz, Armazenamento: 128 GB, Câmera traseira: Dupla 64 MP + 13 MP, Processador: Snapdragon 695 5G, RAM: 6 GB"
     ],
     [
         "titulo" => "Motorola Edge 30 Fusion",
+        "imagem" => "celulares/iphone/motorola/motorolaedge30fusion.jpg",
         "informacoes" => "Tela: 6,55 polegadas P-OLED 144Hz, Armazenamento: 128 GB, Câmera traseira: Tripla 50 MP + 13 MP + 2 MP, Processador: Snapdragon 888+, RAM: 8 GB"
     ],
     [
         "titulo" => "Motorola Edge 30 Ultra",
+        "imagem" => "celulares/iphone/motorola/motorola edge 30 ultra.jpg",
         "informacoes" => "Tela: 6,67 polegadas OLED 144Hz, Armazenamento: 256 GB, Câmera traseira: Tripla 200 MP + 50 MP + 12 MP, Processador: Snapdragon 8+ Gen 1, RAM: 12 GB"
     ],
     [
         "titulo" => "Motorola Edge 30 Pro",
+        "imagem" => "celulares/iphone/motorola/motorola edge 30 pro.jpg",
         "informacoes" => "Tela: 6,7 polegadas OLED 144Hz, Armazenamento: 256 GB, Câmera traseira: Tripla 50 MP + 50 MP + 2 MP, Processador: Snapdragon 8 Gen 1, RAM: 8 GB"
     ],
     [
         "titulo" => "Motorola Edge 30",
+        "imagem" => "celulares/iphone/motorola/motorolaedge30.jpg",
         "informacoes" => "Tela: 6,5 polegadas OLED 144Hz, Armazenamento: 128 GB, Câmera traseira: Tripla 50 MP + 50 MP + 2 MP, Processador: Snapdragon 778G+, RAM: 6 GB"
     ],
     [
-        "titulo" => "Motorola Razr 5G (2020)",
+        "titulo" => "Motorola Razr 5G",
+        "imagem" => "celulares/iphone/motorola/motorolarazr5g.jpg",
         "informacoes" => "Tela: 6,2 polegadas P-OLED dobrável, Armazenamento: 256 GB, Câmera traseira: 48 MP, Processador: Snapdragon 765G, RAM: 8 GB"
     ],
     [
         "titulo" => "Motorola Moto G8 Play",
+        "imagem" => "celulares/iphone/motorola/motorolamotog8play.jpg",
         "informacoes" => "Tela: 6,2 polegadas LCD, Armazenamento: 32 GB, Câmera traseira: Tripla 13 MP + 8 MP + 2 MP, Processador: MediaTek Helio P70M, RAM: 2 GB"
     ],
     [
         "titulo" => "Motorola Moto G8 Plus",
+        "imagem" => "celulares/iphone/motorola/motorolamotog8plus.jpg",
         "informacoes" => "Tela: 6,3 polegadas LCD, Armazenamento: 64 GB, Câmera traseira: Tripla 48 MP + 5 MP + 16 MP, Processador: Snapdragon 665, RAM: 4 GB"
     ],
     [
         "titulo" => "Motorola Moto G7 Plus",
+        "imagem" => "celulares/iphone/motorola/motorolamotog7plus.jpg",
         "informacoes" => "Tela: 6,2 polegadas LCD, Armazenamento: 64 GB, Câmera traseira: Dupla 16 MP + 5 MP, Processador: Snapdragon 636, RAM: 4 GB"
     ],
     [
         "titulo" => "Motorola Moto G7 Power",
+        "imagem" => "celulares/iphone/motorola/motorolamotog7power.jpg",
         "informacoes" => "Tela: 6,2 polegadas LCD, Armazenamento: 32 GB, Câmera traseira: 12 MP, Processador: Snapdragon 632, RAM: 3 GB"
     ],
     [
-        "titulo" => "Motorola Razr (2019)",
-        "informacoes" => "Tela: 6,2 polegadas P-OLED dobrável, Armazenamento: 128 GB, Câmera traseira: 16 MP, Processador: Snapdragon 710, RAM: 6 GB"
-    ],
-    [
         "titulo" => "Motorola One Zoom",
+        "imagem" => "celulares/iphone/motorola/motorolaonezoom.jpg",
         "informacoes" => "Tela: 6,4 polegadas OLED, Armazenamento: 128 GB, Câmera traseira: Quádrupla 48 MP + 8 MP + 16 MP + 5 MP, Processador: Snapdragon 675, RAM: 4 GB"
     ],
     [
         "titulo" => "Motorola One Action",
+        "imagem" => "celulares/iphone/motorola/motorolaoneaction.jpg",
         "informacoes" => "Tela: 6,3 polegadas LCD, Armazenamento: 128 GB, Câmera traseira: Tripla 12 MP + 16 MP + 5 MP, Processador: Exynos 9609, RAM: 4 GB"
     ],
     [
         "titulo" => "Motorola One Vision",
+        "imagem" => "celulares/iphone/motorola/motorolaonevision.jpg",
         "informacoes" => "Tela: 6,3 polegadas LCD, Armazenamento: 128 GB, Câmera traseira: 48 MP, Processador: Exynos 9609, RAM: 4 GB"
     ]
 ];
 $poco = [
     [
         "titulo" => "Poco M7 Pro 5G",
+        "imagem" => "celulares/iphone/poco/pocom7pro5g.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: 50 MP, Processador: MediaTek Dimensity 7025 Ultra, RAM: 8GB"
     ],
     [
         "titulo" => "Poco X6 Pro",
+        "imagem" => "celulares/iphone/poco/pocox6pro.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, Câmera traseira: Tripla 64 MP + 8 MP + 2 MP, Processador: MediaTek Dimensity 8300 Ultra, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Poco X6",
+        "imagem" => "celulares/iphone/poco/pocox6.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, Câmera traseira: Tripla 64 MP + 8 MP + 2 MP, Processador: Qualcomm Snapdragon 7s Gen 2, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Poco M6",
+        "imagem" => "celulares/iphone/poco/pocom6.jpg",
         "informacoes" => "Tela: 6,79 polegadas IPS LCD 90Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Dupla 108 MP + 2 MP, Processador: MediaTek Helio G91 Ultra, RAM: 6GB, 8GB"
     ],
     [
         "titulo" => "Poco M6 Plus 5G",
+        "imagem" => "celulares/iphone/poco/pocom6plus5g.jpg",
         "informacoes" => "Tela: 6,79 polegadas IPS LCD 120Hz, Armazenamento: 128GB, Câmera traseira: Dupla 50 MP + 2 MP, Processador: Qualcomm Snapdragon 4 Gen 2 AE, RAM: 6GB"
     ],
     [
         "titulo" => "Poco F5 Pro",
+        "imagem" => "celulares/iphone/poco/pocof5pro.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, Câmera traseira: Tripla 64 MP + 8 MP + 2 MP, Processador: Qualcomm Snapdragon 8+ Gen 1, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Poco F5",
+        "imagem" => "celulares/iphone/poco/pocof5.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 256GB, Câmera traseira: Tripla 64 MP + 8 MP + 2 MP, Processador: Qualcomm Snapdragon 7+ Gen 2, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Poco X5 Pro 5G",
+        "imagem" => "celulares/iphone/poco/pocox5pro5g.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla 108 MP + 8 MP + 2 MP, Processador: Qualcomm Snapdragon 778G, RAM: 6GB, 8GB"
     ],
     [
         "titulo" => "Poco X5 5G",
+        "imagem" => "celulares/iphone/poco/pocox55g.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla 48 MP + 8 MP + 2 MP, Processador: Qualcomm Snapdragon 695, RAM: 6GB, 8GB"
     ],
     [
         "titulo" => "Poco M5",
+        "imagem" => "celulares/iphone/poco/pocom5.jpg",
         "informacoes" => "Tela: 6,58 polegadas IPS LCD 90Hz, Armazenamento: 64GB, 128GB, Câmera traseira: Tripla 50 MP + 2 MP + 2 MP, Processador: MediaTek Helio G99, RAM: 4GB, 6GB"
     ],
     [
         "titulo" => "Poco M5s",
+        "imagem" => "celulares/iphone/poco/pocom5s.jpg",
         "informacoes" => "Tela: 6,43 polegadas AMOLED, Armazenamento: 64GB, 128GB, Câmera traseira: Quádrupla 64 MP + 8 MP + 2 MP + 2 MP, Processador: MediaTek Helio G95, RAM: 4GB, 6GB"
     ],
     [
         "titulo" => "Poco F4",
+        "imagem" => "celulares/iphone/poco/pocof4.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla 64 MP + 8 MP + 2 MP, Processador: Qualcomm Snapdragon 870, RAM: 6GB, 8GB"
     ],
     [
         "titulo" => "Poco F4 GT",
+        "imagem" => "celulares/iphone/poco/pocof4gt.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla 64 MP + 8 MP + 2 MP, Processador: Qualcomm Snapdragon 8 Gen 1, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Poco X4 Pro 5G",
+        "imagem" => "celulares/iphone/poco/pocox4pro5g.jpg",
         "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla 108 MP + 8 MP + 2 MP, Processador: Qualcomm Snapdragon 695, RAM: 6GB, 8GB"
     ],
     [
         "titulo" => "Poco X4 GT",
+        "imagem" => "celulares/iphone/poco/pocox4gt.jpg",
         "informacoes" => "Tela: 6,6 polegadas IPS LCD 144Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla 64 MP + 8 MP + 2 MP, Processador: MediaTek Dimensity 8100, RAM: 8GB"
     ],
     [
         "titulo" => "Poco M4 Pro 5G",
+        "imagem" => "celulares/iphone/poco/pocom4pro5g.jpg",
         "informacoes" => "Tela: 6,6 polegadas IPS LCD 90Hz, Armazenamento: 64GB, 128GB, Câmera traseira: Dupla 50 MP + 8 MP, Processador: MediaTek Dimensity 810, RAM: 4GB, 6GB"
     ],
     [
         "titulo" => "Poco M4 Pro",
+        "imagem" => "celulares/iphone/poco/pocom4pro.jpg",
         "informacoes" => "Tela: 6,43 polegadas AMOLED 90Hz, Armazenamento: 64GB, 128GB, Câmera traseira: Tripla 64 MP + 8 MP + 2 MP, Processador: MediaTek Helio G96, RAM: 6GB, 8GB"
     ],
     [
         "titulo" => "Poco X3 Pro",
+        "imagem" => "celulares/iphone/poco/pocox3pro.jpg",
         "informacoes" => "Tela: 6,67 polegadas IPS LCD 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Quádrupla 48 MP + 8 MP + 2 MP + 2 MP, Processador: Qualcomm Snapdragon 860, RAM: 6GB, 8GB"
     ],
     [
         "titulo" => "Poco X3 NFC",
+        "imagem" => "celulares/iphone/poco/pocox3nfc.jpg",
         "informacoes" => "Tela: 6,67 polegadas IPS LCD 120Hz, Armazenamento: 64GB, 128GB, Câmera traseira: Quádrupla 64 MP + 13 MP + 2 MP + 2 MP, Processador: Qualcomm Snapdragon 732G, RAM: 6GB, 8GB"
     ],
     [
         "titulo" => "Poco M3",
+        "imagem" => "celulares/iphone/poco/pocom3.jpg",
         "informacoes" => "Tela: 6,53 polegadas IPS LCD, Armazenamento: 64GB, 128GB, Câmera traseira: Tripla 48 MP + 2 MP + 2 MP, Processador: Qualcomm Snapdragon 662, RAM: 4GB"
     ],
     [
         "titulo" => "Poco X2",
+        "imagem" => "celulares/iphone/poco/pocox2.jpg",
         "informacoes" => "Tela: 6,67 polegadas IPS LCD 120Hz, Armazenamento: 64GB, 128GB, 256GB, Câmera traseira: Quádrupla 64 MP + 8 MP + 2 MP + 2 MP, Processador: Qualcomm Snapdragon 730G, RAM: 6GB, 8GB"
     ]
 ];
