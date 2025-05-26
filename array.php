@@ -690,5 +690,54 @@ $poco = [
         "informacoes" => "Tela: 6,67 polegadas IPS LCD 120Hz, Armazenamento: 64GB, 128GB, 256GB, Câmera traseira: Quádrupla 64 MP + 8 MP + 2 MP + 2 MP, Processador: Qualcomm Snapdragon 730G, RAM: 6GB, 8GB"
     ]
 ];
+$jogos = [
+    [ 
+        "titulo"=> "Xbox 360 sem HD usado com jogos",
+        "imagem"=> "",
+        "informacoes"=> "este é um console usado sem hd mas com jogos juntos" 
+    ],
+    [
+        "titulo"=> "xbox 360 usado com kinect",
+        "imagem"=> "",
+        "informacoes"=> "este é um console xbox 360 usado com kinect"
+    ],
+    [
+        "titulo"=> "VR box virtual",
+        "imagem"=> "",
+        "informacoes"=> "óculos de realidade virtual, compatível com smartphones, permite uma experiência de jogo imersiva"
+    ],
+];
+$perifericos = [ 
+    [ 
+        "titulo"=> "Webcam",
+        "imagem"=> "",
+        "informacoes"=> "na loja temos vários tipos de webcam(WEBCAM MULTILASER 16MP, WEBCAM MINI PACKING, WEBCAM LEHMOX LEY-53, entre outras) "
+    ],
+    [
+        "titulo"=> "Carregadores de celular",
+        "imagem"=> "",
+        "informacoes"=> "na loja temos carregadores para vários celulares entre em contato para garantir o seu"
+    ],
+    [
+        "titulo"=> "aparelhos de TV",
+        "imagem"=> "",
+        "informacoes"=> "na loja temos aparelhos de TV de vários modelos(TV RED LITE2 FULL HD, TV BOX ORIG TOMATE MCD-121, entre outros) entre em contato para garantir o seu"
+    ],
+    [
+        "titulo"=> "Tripe",
+        "imagem"=> "",
+        "informacoes"=> "na loja temos tripe de vários modelos entre em contato para garantir o seu"
+    ],
+    [
+        "titulo"=> "Ring Light",
+        "imagem"=> "",
+        "informacoes"=> "Na loja temos Ring Light de vários modelos entre em contato para garantir o seu"
+    ],
+    [
+        "titulo"=> "teclado",
+        "imagem"=> "",
+        "informacoes"=> "Na loja temos uma variedade de teclados tanto gamers como mecânicos, entre em contato para garantir o seu"
+    ]
+]
 
 ?>
