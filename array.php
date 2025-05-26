@@ -303,112 +303,139 @@ $samsung = [
 $galaxyA = [
     [
         "titulo" => "Samsung Galaxy A55 5G",
+        "imagem" => "celulares/iphone/galaxyA/galaxyA55 5g.jpg",
         "informacoes" => "Tela: 6,6 polegadas Super AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 50 MP + 12 MP + 5 MP, Processador: Exynos 1480, RAM: 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A35 5G",
+        "imagem" => "celulares/iphone/galaxyA/galaxyA35 5g.jpg",
         "informacoes" => "Tela: 6,6 polegadas Super AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 50 MP + 8 MP + 5 MP, Processador: Exynos 1380, RAM: 6 GB, 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A54 5G",
+        "imagem" => "celulares/iphone/galaxyA/galaxyA54 5g.jpg",
         "informacoes" => "Tela: 6,4 polegadas Super AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 50 MP + 12 MP + 5 MP, Processador: Exynos 1380, RAM: 6 GB, 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A34 5G",
+        "imagem" => "celulares/iphone/galaxyA/galaxyA34 5g.jpg",
         "informacoes" => "Tela: 6,6 polegadas Super AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 48 MP + 8 MP + 5 MP, Processador: MediaTek Dimensity 1080, RAM: 6 GB, 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A53 5G",
+        "imagem" => "celulares/iphone/galaxyA/galaxyA53 5g.jpg",
         "informacoes" => "Tela: 6,5 polegadas Super AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Quádrupla 64 MP + 12 MP + 5 MP + 5 MP, Processador: Exynos 1280, RAM: 6 GB, 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A33 5G",
+        "imagem" => "celulares/iphone/galaxyA/galaxyA33 5g.jpg",
         "informacoes" => "Tela: 6,4 polegadas Super AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Quádrupla 48 MP + 8 MP + 5 MP + 2 MP, Processador: Exynos 1280, RAM: 6 GB, 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A52s 5G",
+        "imagem" => "celulares/iphone/galaxyA/galaxyA52 5g.jpg",
         "informacoes" => "Tela: 6,5 polegadas Super AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Quádrupla 64 MP + 12 MP + 5 MP + 5 MP, Processador: Snapdragon 778G, RAM: 6 GB, 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A72",
+        "imagem" => "celulares/iphone/galaxyA/galaxyA72.jpg",
         "informacoes" => "Tela: 6,7 polegadas Super AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Quádrupla 64 MP + 8 MP + 12 MP + 5 MP, Processador: Snapdragon 720G, RAM: 6 GB, 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A71",
+        "imagem" => "celulares/iphone/galaxyA/galaxyA71.jpg",
         "informacoes" => "Tela: 6,7 polegadas Super AMOLED Plus, Armazenamento: 128 GB, Câmera traseira: Quádrupla 64 MP + 12 MP + 5 MP + 5 MP, Processador: Snapdragon 730, RAM: 6 GB, 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A51",
+        "imagem" => "celulares/iphone/galaxyA/galaxy A51.jpg",
         "informacoes" => "Tela: 6,5 polegadas Super AMOLED, Armazenamento: 64 GB, 128 GB, 256 GB, Câmera traseira: Quádrupla 48 MP + 12 MP + 5 MP + 5 MP, Processador: Exynos 9611, RAM: 4 GB, 6 GB, 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A50",
+        "imagem" => "celulares/iphone/galaxyA/galaxy A50.jpg",
         "informacoes" => "Tela: 6,4 polegadas Super AMOLED, Armazenamento: 64 GB, 128 GB, Câmera traseira: Tripla 25 MP + 8 MP + 5 MP, Processador: Exynos 9610, RAM: 4 GB, 6 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A30",
+        "imagem" => "celulares/iphone/galaxyA/galaxy A30.jpg",
         "informacoes" => "Tela: 6,4 polegadas Super AMOLED, Armazenamento: 32 GB, 64 GB, Câmera traseira: Dupla 16 MP + 5 MP, Processador: Exynos 7904, RAM: 3 GB, 4 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A20",
+        "imagem" => "celulares/iphone/galaxyA/galaxy A20.jpg",
         "informacoes" => "Tela: 6,4 polegadas Super AMOLED, Armazenamento: 32 GB, Câmera traseira: Dupla 13 MP + 5 MP, Processador: Exynos 7884, RAM: 3 GB"
     ],
     [
         "titulo" => "Samsung Galaxy A10",
+        "imagem" => "celulares/iphone/galaxyA/galaxy A10.jpg",
         "informacoes" => "Tela: 6,2 polegadas IPS LCD, Armazenamento: 32 GB, Câmera traseira: 13 MP, Processador: Exynos 7884, RAM: 2 GB"
     ],
     ];
 $Xiaomi =  [
     [
         "titulo" => "Xiaomi 15 Ultra",
+        "imagem" => "celulares/iphone/xiaomi/xiaomi15ultra.jpg",
         "informacoes" => "Tela: 6,78 Polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, 1TB, Câmera traseira: Quádrupla (Sony LYT-900 50MP + 50MP + 50MP + 50MP), Processador: Snapdragon 8 Gen 4, RAM: 12GB, 16GB"
     ],
     [
         "titulo" => "Xiaomi 15 Pro",
+        "imagem" => "celulares/iphone/xiaomi/xiaomi15pro.jpg",
         "informacoes" => "Tela: 6,73 Polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, Câmera traseira: Tripla (50MP + 50MP + 50MP), Processador: Snapdragon 8 Gen 4, RAM: 12GB, 16GB"
     ],
     [
         "titulo" => "Xiaomi 14 Ultra",
+        "imagem" => "celulares/iphone/xiaomi/xiaomi14ultra.jpg",
         "informacoes" => "Tela: 6,73 Polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, 1TB, Câmera traseira: Quádrupla (50MP + 50MP + 50MP + 50MP), Processador: Snapdragon 8 Gen 3, RAM: 12GB, 16GB"
     ],
     [
         "titulo" => "Xiaomi 14 Pro",
+        "imagem" => "celulares/iphone/xiaomi/xiaomi14pro.jpg",
         "informacoes" => "Tela: 6,73 Polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, Câmera traseira: Tripla (50MP + 50MP + 50MP), Processador: Snapdragon 8 Gen 3, RAM: 12GB, 16GB"
     ],
     [
         "titulo" => "Xiaomi 13 Ultra",
+        "imagem" => "celulares/iphone/xiaomi/xiaomi13ultra.jpg",
         "informacoes" => "Tela: 6,73 Polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, 1TB, Câmera traseira: Quádrupla (50MP + 50MP + 50MP + 50MP), Processador: Snapdragon 8 Gen 2, RAM: 12GB, 16GB"
     ],
     [
         "titulo" => "Xiaomi 13 Pro",
+        "imagem" => "celulares/iphone/xiaomi/xiaomi13pro.jpg",
         "informacoes" => "Tela: 6,73 Polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, 512GB, Câmera traseira: Tripla (50MP + 50MP + 50MP), Processador: Snapdragon 8 Gen 2, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Xiaomi 12S Ultra",
+        "imagem" => "celulares/iphone/xiaomi/xiaomi12sultra.jpg",
         "informacoes" => "Tela: 6,73 Polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, Câmera traseira: Tripla (50.3MP + 48MP + 48MP), Processador: Snapdragon 8+ Gen 1, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Xiaomi 12 Pro",
+        "imagem" => "celulares/iphone/xiaomi/xiaomi12pro.jpg",
         "informacoes" => "Tela: 6,73 Polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, 512GB, Câmera traseira: Tripla (50MP + 50MP + 50MP), Processador: Snapdragon 8 Gen 1, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Xiaomi Mi 11 Ultra",
+        "imagem" => "celulares/iphone/xiaomi/xiaomimi11ultra.jpg",
         "informacoes" => "Tela: 6,81 Polegadas AMOLED 120Hz, Armazenamento: 256GB, 512GB, Câmera traseira: Tripla (50MP + 48MP + 48MP), Processador: Snapdragon 888, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Xiaomi Mi 11 Pro",
+        "imagem" => "celulares/iphone/xiaomi/xiaomimi11pro.jpg",
         "informacoes" => "Tela: 6,81 Polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla (50MP + 13MP + 8MP), Processador: Snapdragon 888, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Xiaomi Mi 11",
+        "imagem" => "celulares/iphone/xiaomi/xiaomimi11.jpg",
         "informacoes" => "Tela: 6,81 Polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla (108MP + 13MP + 5MP), Processador: Snapdragon 888, RAM: 8GB, 12GB"
     ],
     [
         "titulo" => "Xiaomi Mi 10 Ultra",
+        "imagem" => "celulares/iphone/xiaomi/xiaomimi10ultra.jpg",
         "informacoes" => "Tela: 6,67 Polegadas AMOLED 120Hz, Armazenamento: 128GB, 256GB, 512GB, Câmera traseira: Quádrupla (48MP + 48MP + 12MP + 20MP), Processador: Snapdragon 865, RAM: 8GB, 12GB, 16GB"
     ],
     [
         "titulo" => "Xiaomi Mi 10 Pro",
+        "imagem" => "celulares/iphone/xiaomi/xiaomimi10pro.jpg",
         "informacoes" => "Tela: 6,67 Polegadas AMOLED 90Hz, Armazenamento: 128GB, 256GB, 512GB, Câmera traseira: Quádrupla (108MP + 8MP + 12MP + 20MP), Processador: Snapdragon 865, RAM: 8GB, 12GB"
     ],
 ];
