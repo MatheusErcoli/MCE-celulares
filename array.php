@@ -136,147 +136,168 @@ $iphone = [
 $samsung = [
      [
         "titulo" => "Samsung Galaxy S24 Ultra",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS24ultra.jpg",
         "informacoes" => "Tela: 6,8 polegadas Dynamic AMOLED 2X, Armazenamento: 256 GB, 512 GB, 1 TB, Câmera traseira: Quádrupla 200 MP + 50 MP + 10 MP + 12 MP, Processador: Snapdragon 8 Gen 3, RAM: 12 GB"
      ],
     [
         "titulo" => "Samsung Galaxy S24+",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS24+.jpg",
         "informacoes" => "Tela: 6,7 polegadas Dynamic AMOLED 2X, Armazenamento: 256 GB, 512 GB, Câmera traseira: Tripla 50 MP + 10 MP + 12 MP, Processador: Exynos 2400 / Snapdragon 8 Gen 3, RAM: 12 GB"
     ],
     [
         "titulo" => "Samsung Galaxy S24",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS24.jpg",
         "informacoes" => "Tela: 6,2 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 50 MP + 10 MP + 12 MP, Processador: Exynos 2400 / Snapdragon 8 Gen 3, RAM: 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy Z Flip5",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyzflip5.jpg",
         "informacoes" => "Tela: 6,7 polegadas AMOLED dobrável, Armazenamento: 256 GB, 512 GB, Câmera traseira: Dupla 12 MP, Processador: Snapdragon 8 Gen 2, RAM: 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy Z Fold5",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyzfold5.jpg",
         "informacoes" => "Tela: 7,6 polegadas AMOLED dobrável, Armazenamento: 256 GB, 512 GB, 1 TB, Câmera traseira: Tripla 50 MP + 12 MP + 10 MP, Processador: Snapdragon 8 Gen 2, RAM: 12 GB"
     ],
     [
         "titulo" => "Samsung Galaxy S23 Ultra",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS23ultra.jpg",
         "informacoes" => "Tela: 6,8 polegadas Dynamic AMOLED 2X, Armazenamento: 256 GB, 512 GB, 1 TB, Câmera traseira: Quádrupla 200 MP + 10 MP + 10 MP + 12 MP, Processador: Snapdragon 8 Gen 2, RAM: 8 GB, 12 GB"
     ],
      [
         "titulo" => "Samsung Galaxy S23+",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS23+.jpg",
         "informacoes" => "Tela: 6,6 polegadas Dynamic AMOLED 2X, Armazenamento: 256 GB, 512 GB, Câmera traseira: Tripla 50 MP + 10 MP + 12 MP, Processador: Snapdragon 8 Gen 2, RAM: 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy S23",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS23.jpg",
         "informacoes" => "Tela: 6,1 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 50 MP + 10 MP + 12 MP, Processador: Snapdragon 8 Gen 2, RAM: 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy Z Flip4",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyzflip4.jpg",
         "informacoes" => "Tela: 6,7 polegadas AMOLED dobrável, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera traseira: Dupla 12 MP, Processador: Snapdragon 8+ Gen 1, RAM: 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy Z Fold4",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyzfold4.jpg",
         "informacoes" => "Tela: 7,6 polegadas AMOLED dobrável, Armazenamento: 256 GB, 512 GB, 1 TB, Câmera traseira: Tripla 50 MP + 12 MP + 10 MP, Processador: Snapdragon 8+ Gen 1, RAM: 12 GB"
     ],
     [
         "titulo" => "Samsung Galaxy S22 Ultra",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS22ultra.jpg",
         "informacoes" => "Tela: 6,8 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 256 GB, 512 GB, 1 TB, Câmera traseira: Quádrupla 108 MP + 10 MP + 10 MP + 12 MP, Processador: Exynos 2200 / Snapdragon 8 Gen 1, RAM: 8 GB, 12 GB"
     ],
     [
         "titulo" => "Samsung Galaxy S22+",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS22+.jpg",
         "informacoes" => "Tela: 6,6 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 50 MP + 10 MP + 12 MP, Processador: Exynos 2200 / Snapdragon 8 Gen 1, RAM: 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy S22",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS22.jpg",
         "informacoes" => "Tela: 6,1 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 50 MP + 10 MP + 12 MP, Processador: Exynos 2200 / Snapdragon 8 Gen 1, RAM: 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy Z Flip3",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyzflip3.jpg",
         "informacoes" => "Tela: 6,7 polegadas AMOLED dobrável, Armazenamento: 128 GB, 256 GB, Câmera traseira: Dupla 12 MP, Processador: Snapdragon 888, RAM: 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy Z Fold3",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyzfold3.jpg",
         "informacoes" => "Tela: 7,6 polegadas AMOLED dobrável, Armazenamento: 256 GB, 512 GB, Câmera traseira: Tripla 12 MP, Processador: Snapdragon 888, RAM: 12 GB"
     ],
      [
         "titulo" => "Samsung Galaxy S21 Ultra",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS21ultra.jpg",
         "informacoes" => "Tela: 6,8 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera traseira: Quádrupla 108 MP + 10 MP + 10 MP + 12 MP, Processador: Exynos 2100 / Snapdragon 888, RAM: 12 GB, 16 GB"
     ],
      [
         "titulo" => "Samsung Galaxy S21+",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS21+.jpg",
         "informacoes" => "Tela: 6,7 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 12 MP + 64 MP + 12 MP, Processador: Exynos 2100 / Snapdragon 888, RAM: 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy S21",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS21.jpg",
         "informacoes" => "Tela: 6,2 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 256 GB, Câmera traseira: Tripla 12 MP + 64 MP + 12 MP, Processador: Exynos 2100 / Snapdragon 888, RAM: 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy Z Fold2",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyzfold2.jpg",
         "informacoes" => "Tela: 7,6 polegadas AMOLED dobrável, Armazenamento: 256 GB, 512 GB, Câmera traseira: Tripla 12 MP, Processador: Snapdragon 865+, RAM: 12 GB"
     ],
     [
         "titulo" => "Samsung Galaxy Z Flip",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyzflip.jpg",
         "informacoes" => "Tela: 6,7 polegadas AMOLED dobrável, Armazenamento: 256 GB, Câmera traseira: Dupla 12 MP, Processador: Snapdragon 855+, RAM: 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy Note20 Ultra",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxynote20ultra.jpg",
         "informacoes" => "Tela: 6,9 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera traseira: Tripla 108 MP + 12 MP + 12 MP, Processador: Exynos 990 / Snapdragon 865+, RAM: 8 GB, 12 GB"
     ],
     [
         "titulo" => "Samsung Galaxy Note20",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxynote20.jpg",
         "informacoes" => "Tela: 6,7 polegadas Super AMOLED Plus, Armazenamento: 128 GB, Câmera traseira: Tripla 12 MP + 64 MP + 12 MP, Processador: Exynos 990 / Snapdragon 865+, RAM: 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy S20 Ultra",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxys20ultra.jpg",
         "informacoes" => "Tela: 6,9 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 512 GB, Câmera traseira: Quádrupla 108 MP + 48 MP + 12 MP + TOF, Processador: Exynos 990 / Snapdragon 865, RAM: 12 GB, 16 GB"
     ],
      [
         "titulo" => "Samsung Galaxy S20+",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS20+.jpg",
         "informacoes" => "Tela: 6,7 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, 512 GB, Câmera traseira: Quádrupla 12 MP + 64 MP + 12 MP + TOF, Processador: Exynos 990 / Snapdragon 865, RAM: 8 GB, 12 GB"
     ],
      [
         "titulo" => "Samsung Galaxy S20",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxys20.jpg",
         "informacoes" => "Tela: 6,2 polegadas Dynamic AMOLED 2X, Armazenamento: 128 GB, Câmera traseira: Tripla 12 MP + 64 MP + 12 MP, Processador: Exynos 990 / Snapdragon 865, RAM: 8 GB, 12 GB"
     ],
     [
         "titulo" => "Samsung Galaxy Note10+",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxynote10+.jpg",
         "informacoes" => "Tela: 6,8 polegadas Dynamic AMOLED, Armazenamento: 256 GB, 512 GB, Câmera traseira: Quádrupla 12 MP + 12 MP + 16 MP + TOF, Processador: Exynos 9825 / Snapdragon 855, RAM: 12 GB"
     ],
      [
         "titulo" => "Samsung Galaxy Note10",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxynote10.jpg",
         "informacoes" => "Tela: 6,3 polegadas Dynamic AMOLED, Armazenamento: 256 GB, Câmera traseira: Tripla 12 MP + 12 MP + 16 MP, Processador: Exynos 9825 / Snapdragon 855, RAM: 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy S10+",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS10+.jpg",
         "informacoes" => "Tela: 6,4 polegadas Dynamic AMOLED, Armazenamento: 128 GB, 512 GB, 1 TB, Câmera traseira: Tripla 12 MP + 12 MP + 16 MP, Processador: Exynos 9820 / Snapdragon 855, RAM: 8 GB, 12 GB"
     ],
     [
         "titulo" => "Samsung Galaxy S10",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS10.jpg",
         "informacoes" => "Tela: 6,1 polegadas Dynamic AMOLED, Armazenamento: 128 GB, 512 GB, Câmera traseira: Tripla 12 MP + 12 MP + 16 MP, Processador: Exynos 9820 / Snapdragon 855, RAM: 8 GB"
     ],
     [
         "titulo" => "Samsung Galaxy S10e",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxys10e.jpg",
         "informacoes" => "Tela: 5,8 polegadas Dynamic AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Dupla 12 MP + 16 MP, Processador: Exynos 9820 / Snapdragon 855, RAM: 6 GB, 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy Note9",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxynote9.jpg",
         "informacoes" => "Tela: 6,4 polegadas Super AMOLED, Armazenamento: 128 GB, 512 GB, Câmera traseira: Dupla 12 MP, Processador: Exynos 9810 / Snapdragon 845, RAM: 6 GB, 8 GB"
     ],
      [
         "titulo" => "Samsung Galaxy S9+",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxyS9+.jpg",
         "informacoes" => "Tela: 6,2 polegadas Super AMOLED, Armazenamento: 64 GB, 128 GB, 256 GB, Câmera traseira: Dupla 12 MP, Processador: Exynos 9810 / Snapdragon 845, RAM: 6 GB"
     ],
     [
         "titulo" => "Samsung Galaxy S9",
+        "imagem" => "celulares/iphone/samsung/samsunggalaxys9.jpg",
         "informacoes" => "Tela: 5,8 polegadas Super AMOLED, Armazenamento: 64 GB, 128 GB, 256 GB, Câmera traseira: 12 MP, Processador: Exynos 9810 / Snapdragon 845, RAM: 4 GB"
-    ],
-     [
-        "titulo" => "Samsung Galaxy Note8",
-        "informacoes" => "Tela: 6,3 polegadas Super AMOLED, Armazenamento: 64 GB, 128 GB, 256 GB, Câmera traseira: Dupla 12 MP, Processador: Exynos 8895 / Snapdragon 835, RAM: 6 GB"
-    ],
-    [
-        "titulo" => "Samsung Galaxy S8+",
-        "informacoes" => "Tela: 6,2 polegadas Super AMOLED, Armazenamento: 64 GB, Câmera traseira: 12 MP, Processador: Exynos 8895 / Snapdragon 835, RAM: 4 GB"
-    ],
-    [
-        "titulo" => "Samsung Galaxy S8",
-        "informacoes" => "Tela: 5,8 polegadas Super AMOLED, Armazenamento: 64 GB, Câmera traseira: 12 MP, Processador: Exynos 8895 / Snapdragon 835, RAM: 4 GB"
     ],
 ];
 $galaxyA = [
