@@ -443,6 +443,21 @@ $Xiaomi =  [
         "imagem" => "celulares/iphone/xiaomi/xiaomimi10pro.jpg",
         "informacoes" => "Tela: 6,67 Polegadas AMOLED 90Hz, Armazenamento: 128GB, 256GB, 512GB, Câmera traseira: Quádrupla (108MP + 8MP + 12MP + 20MP), Processador: Snapdragon 865, RAM: 8GB, 12GB"
     ],
+    [
+        "titulo" => "Celular Xiaomi Redmi Note 9S 4GB RAM 128GB Grey",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,67 polegadas IPS LCD, Processador: Snapdragon 720G, RAM: 4GB, Armazenamento: 128GB, Câmeras: Quádrupla (48MP + 8MP + 5MP + 2MP), Bateria: 5020mAh, Cor: Cinza (Grey)."
+    ],
+    [
+        "titulo" => "Celular Xiaomi Redmi Note 9 4GB RAM 128GB Polar White",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G85, RAM: 4GB, Armazenamento: 128GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 5020mAh, Cor: Branco Polar (Polar White)."
+    ],
+    [
+        "titulo" => "Celular Xiaomi Redmi Note 9 128GB 4GB RAM (Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G85, RAM: 4GB, Armazenamento: 128GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 5020mAh, Produto usado em boas condições."
+    ]
 ];
 $redmi = [
     [
@@ -722,6 +737,36 @@ $videogame = [
         "informacoes"=> "este é um console xbox 360 usado com kinect"
     ],
     [
+        "titulo"=> "Controle Xbox 360",
+        "imagem"=> "",
+        "informações"=> "Na nossa loja temos controles Xbox 360 novos e usados, entre em contato para garantir o seu"
+    ],
+    [
+        "titulo" => "Controle Sony PS4 Original",
+        "imagem" => "",
+        "informacoes" => "Compatível com PS4, conexão sem fio via Bluetooth, bateria recarregável, design ergonômico."
+    ],
+    [
+        "titulo" => "Controle Sony PS3 Original",
+        "imagem" => "",
+        "informacoes" => "Compatível com PS3, conexão sem fio via Bluetooth, bateria recarregável, modelo DualShock 3 com sensor de movimento Sixaxis."
+    ],
+    [
+        "titulo" => "Controle PS5 Sem Fio DualSense",
+        "imagem" => "",
+        "informacoes" => "Compatível com PS5, conexão sem fio via Bluetooth, feedback tátil, gatilhos adaptáveis, bateria recarregável, design ergonômico."
+    ],
+    [
+        "titulo" => "Controle PS4 Sem Fio Colorido Sony",
+        "imagem" => "",
+        "informacoes" => "Compatível com PS4, conexão sem fio via Bluetooth, bateria recarregável, design colorido e ergonômico."
+    ],
+    [
+        "titulo" => "Controle PS4 Sem Fio (Usado)",
+        "imagem" => "",
+        "informacoes" => "Compatível com PS4, conexão sem fio via Bluetooth, bateria recarregável, produto usado em boas condições."
+    ],
+    [
         "titulo"=> "VR box virtual",
         "imagem"=> "",
         "informacoes"=> "óculos de realidade virtual, compatível com smartphones, permite uma experiência de jogo imersiva"
@@ -744,14 +789,19 @@ $perifericos = [
         "informacoes" => "Na loja temos alguns monitores à venda, entre em contato para garantir o seu"
     ],
     [
-        "titulo" => "Placas de Vídeo",
+        "titulo" => "Headset",
         "imagem" => "",
-        "informacoes" => "na loja temos placas de vídeo de vários modelos, entre em contato para garantir a sua"
+        "informacoes" => "na loja temos headset de vários modelos, entre em contato para garantir a sua"
     ],
     [
         "titulo" => "Mouse",
         "imagem"=> "",
         "informacoes"=> "Na loja temos uma variedade de mouses tanto gamers como comuns, entre em contato para garantir o seu"
+    ],
+    [
+        "titulo"=> "Fones de ouvido",
+        "imagem"=> "",
+        "informacoes"=> "Na loja temos fones de ouvido de vários modelos, entre em contato para garantir o seu"
     ],
     [
         "titulo" => "Relógio Smartwatch",
