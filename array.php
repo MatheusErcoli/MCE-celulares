@@ -132,6 +132,11 @@ $iphone = [
         "imagem" => "celulares/iphone/iphoneX.jpg",
         "informacoes" => "Tela: 5,8 polegadas OLED Super Retina, Armazenamento: 64 GB, 256 GB, Câmera traseira: Dupla 12 MP, Processador: A11 Bionic, RAM: 3 GB"
     ],
+     [
+        "titulo" => "iPhone 5S Usado",
+        "imagem" => "",
+        "informacoes" => "Capacidade: 16GB/32GB/64GB, Tela: 4.0 polegadas, Câmera: 8MP, Sistema: iOS"
+    ]
 ];  
 $samsung = [
      [
@@ -690,7 +695,22 @@ $poco = [
         "informacoes" => "Tela: 6,67 polegadas IPS LCD 120Hz, Armazenamento: 64GB, 128GB, 256GB, Câmera traseira: Quádrupla 64 MP + 8 MP + 2 MP + 2 MP, Processador: Qualcomm Snapdragon 730G, RAM: 6GB, 8GB"
     ]
 ];
-$jogos = [
+$videogame = [
+    [
+        "titulo"=> "Playstation 5",
+        "imagem"=> "",
+        "informacoes" => "Armazenamento: 825GB SSD, Resolução: Até 8K, Taxa de quadros: Até 120fps, Mídia: Blu-ray Ultra HD, Processador: AMD Ryzen Zen 2 8 núcleos, GPU: AMD RDNA 2, Memória RAM: 16GB GDDR6"
+    ],
+    [
+       "titulo" => "PLAYSTATION 4 COM 1 CONTROLE E 1 JOGO",
+       "imagem" => "",
+       "informacoes" => "esse é um console ps4 usado com 1 controle e 1 jogo, o console está em perfeito estado, as Armazenamento: 500GB, 1TB HDD, Resolução: Até 1080p, Taxa de quadros: Até 60fps, Mídia: Blu-ray, Processador: AMD Jaguar 8 núcleos, GPU: AMD GCN, Memória RAM: 8GB GDDR5"
+    ],
+    [
+        "PLAYSTATION 3 500GB e 1 CONTROLE",
+        "imagem" => "",
+        "informacoes" => "Este console PS3 vem com 500GB de armazenamento e 1 controle, perfeito para jogos em família ou com amigos, Resolução: Até 1080p, Mídia: Blu-ray, Processador: Cell Broadband Engine 3.2 GHz, GPU: NVIDIA RSX, Memória RAM: 256MB XDR + 256MB GDDR3"
+    ],
     [ 
         "titulo"=> "Xbox 360 sem HD usado com jogos",
         "imagem"=> "",
@@ -708,15 +728,45 @@ $jogos = [
     ],
 ];
 $perifericos = [ 
-    [ 
-        "titulo"=> "Webcam",
+    [
+        "titulo"=> "teclado",
         "imagem"=> "",
-        "informacoes"=> "na loja temos vários tipos de webcam(WEBCAM MULTILASER 16MP, WEBCAM MINI PACKING, WEBCAM LEHMOX LEY-53, entre outras) "
+        "informacoes"=> "Na loja temos uma variedade de teclados tanto gamers como mecânicos, entre em contato para garantir o seu"
     ],
     [
         "titulo"=> "Carregadores de celular",
         "imagem"=> "",
         "informacoes"=> "na loja temos carregadores para vários celulares entre em contato para garantir o seu"
+    ],
+    [
+        "titulo"=> "Monitores",
+        "imagem"=> "",
+        "informacoes" => "Na loja temos alguns monitores à venda, entre em contato para garantir o seu"
+    ],
+    [
+        "titulo" => "Placas de Vídeo",
+        "imagem" => "",
+        "informacoes" => "na loja temos placas de vídeo de vários modelos, entre em contato para garantir a sua"
+    ],
+    [
+        "titulo" => "Mouse",
+        "imagem"=> "",
+        "informacoes"=> "Na loja temos uma variedade de mouses tanto gamers como comuns, entre em contato para garantir o seu"
+    ],
+    [
+        "titulo" => "Relógio Smartwatch",
+        "imagem" => "",
+        "informacoes" => "na loja temos relógios smartwatchs de vários modelos entre várias marcas, entre em contato para garantir o seu"
+    ],
+    [
+        "titulo" => "pulseira Smart",
+        "imagem" => "",
+        "informacoes" => "Assim como o relógio smartwatch, a pulseira smart tem vários modelos e marcas dentre elas pulseiras da Xiaomi e Apple, entre em contato para garantir a sua"
+    ],
+    [ 
+        "titulo"=> "Webcam",
+        "imagem"=> "",
+        "informacoes"=> "na loja temos vários tipos de webcam(WEBCAM MULTILASER 16MP, WEBCAM MINI PACKING, WEBCAM LEHMOX LEY-53, entre outras) "
     ],
     [
         "titulo"=> "aparelhos de TV",
@@ -733,11 +783,419 @@ $perifericos = [
         "imagem"=> "",
         "informacoes"=> "Na loja temos Ring Light de vários modelos entre em contato para garantir o seu"
     ],
+];
+$tablet = [
+   [
+        "titulo" => "Tablet SAM S9 FE",
+        "imagem" => "",
+        "informacoes"=> "Tela: 10,9 polegadas TFT LCD, Armazenamento: 128GB, 256GB, Câmera traseira: 8 MP, Processador: Exynos 1380, RAM: 6GB, 8GB"
+    ],
     [
-        "titulo"=> "teclado",
+        "titulo" => "Tablet SAM S6 Lite P620",
         "imagem"=> "",
-        "informacoes"=> "Na loja temos uma variedade de teclados tanto gamers como mecânicos, entre em contato para garantir o seu"
+        "informacoes" => "Tela: 10,4 polegadas TFT, Armazenamento: 64GB, 128GB, Câmera traseira: 8 MP, Processador: Exynos 9611, RAM: 4GB"
+    ],
+    [
+        "titulo" => "TABLET SAM 10 POL.",
+        "imagem" => "",
+        "informacoes" => "Tela: 10,1 polegadas, Armazenamento: 32GB, 64GB, Câmera traseira: 8 MP, Processador: Octa-Core, RAM: 2GB, 3GB"
+    ],
+    [
+        "titulo" => "TABLET AMAZON FIRE 8 HD",
+        "imagem" => "",
+        "informacoes" => "Tela: 8 polegadas HD IPS, Armazenamento: 32GB, 64GB, Câmera traseira: 2 MP, Processador: Quad-Core 2.0GHz, RAM: 2GB"
+    ],
+    [
+        "titulo" => "TABLET REDMI IPAD SE",
+        "imagem" => "",
+        "informacoes" => "Tela: 10,61 polegadas IPS LCD 90Hz, Armazenamento: 128GB, Câmera traseira: 8 MP, Processador: Snapdragon 680, RAM: 4GB, 6GB"
+    ],
+    [
+        "titulo" => "TABLET APPLE IPAD NONA GERAÇÃO",
+        "imagem" => "",
+        "informacoes" => "Tela: 10,2 polegadas Retina, Armazenamento: 64GB, 256GB, Câmera traseira: 8 MP, Processador: Apple A13 Bionic, RAM: 3GB"
+    ],
+    [
+        "titulo" => "TABLET AMAZON FIRE 7 KIDS",
+        "imagem" => "",
+        "informacoes" => "Tela: 7 polegadas IPS, Armazenamento: 16GB, 32GB, Câmera traseira: 2 MP, Processador: Quad-Core 2.0GHz, RAM: 2GB"
+    ],
+    [
+        "titulo" => "TABLET AMAZON FIRE 7",
+        "imagem" => "",
+        "informacoes" => "Tela: 7 polegadas IPS, Armazenamento: 16GB, 32GB, Câmera traseira: 2 MP, Processador: Quad-Core 2.0GHz, RAM: 2GB"
+    ],
+];
+$notebooks = [
+    [
+        "titulo" => "Notebook Dell 3000-3511",
+        "imagem" => "",
+        "informacoes" => "Processador: Intel Core i5, Memória RAM: 8 GB, Armazenamento: SSD 256 GB, Tela: 15,6 polegadas"
+    ],
+    [
+        "titulo" => "Notebook Asus Vivobook",
+        "imagem" => "",
+        "informacoes" => "Processador: Intel Core i3-N305, Memória RAM: 8 GB, Armazenamento: SSD 256 GB, Tela: 15,6 polegadas Full HD, Sistema operacional: Windows 11"
+    ],
+    [
+        "titulo" => "Notebook Acer Aspire Vero",
+        "imagem" => "",
+        "informacoes" => "Processador: Intel Core i5, Memória RAM: 8 GB, Armazenamento: SSD 512 GB, Tela: 15,6 polegadas"
+    ],
+    [
+        "titulo" => "Notebook Acer Nitro 5",
+        "imagem" => "",
+        "informacoes" => "Processador: Intel Core i5 ou superior, Memória RAM: 8 GB ou mais, Armazenamento: SSD 256 GB ou superior, Tela: 15,6 polegadas Full HD, Características: Placa de vídeo dedicada para jogos"
+    ],
+    [
+        "titulo" => "Notebook Dell I3583-5763",
+        "imagem" => "",
+        "informacoes" => "Processador: Intel Core i5, Memória RAM: 8 GB, Armazenamento: SSD 256 GB, Tela: 15,6 polegadas Touchscreen"
+    ],
+    [
+        "titulo" => "Notebook Acer GO 15",
+        "imagem" => "",
+        "informacoes" => "Processador: Intel Core i3, Memória RAM: 4 GB ou 8 GB, Armazenamento: SSD 128 GB ou 256 GB, Tela: 15,6 polegadas"
     ]
-]
+];
+$jogos = [
+    [
+        "titulo" => "Jogo Xbox 360 Red Dead Redemption GOTY Edition",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Edição: Game of the Year"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360 PES 2017",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360 Mortal Kombat vs DC Universe",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Gênero: Luta"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360 LEGO Marvel Vingadores",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Gênero: Aventura"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360 LEGO Batman 3 Beyond Gotham",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Gênero: Aventura"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360 Kinect Sports Ultimate Collection",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Requer Kinect"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360 GTA 5",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360 FIFA 18",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360 F.E.A.R. 2",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360 Assassin's Creed IV Black Flag",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo Xbox 360",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360"
+    ],
+    [
+        "titulo" => "Jogo Wii U Super Mario Bros. U",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Wii U, Gênero: Plataforma"
+    ],
+    [
+        "titulo" => "Jogo Uncharted 3 Drake's Deception PS3",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo Skate 3 PS3",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo Red Dead Redemption PS3 Usado",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS4 Watch Dogs",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS4 Uncharted 4",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS4 PES 2020",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo PS4 Need for Speed Rivals",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Corrida"
+    ],
+    [
+        "titulo" => "Jogo PS4 Marvel Super Heroes",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS4 Linha TOP",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4"
+    ],
+    [
+        "titulo" => "Jogo PS4 Linha S",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4"
+    ],
+    [
+        "titulo" => "Jogo PS4 Linha MP",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4"
+    ],
+    [
+        "titulo" => "Jogo PS4 Horizon Zero Dawn",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: RPG de Ação"
+    ],
+    [
+        "titulo" => "Jogo PS4 GTA V",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS4 God of War Ragnarok",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS4 God of War",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS4 Ghost Recon",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Tiro tático"
+    ],
+    [
+        "titulo" => "Jogo PS4 FIFA 23 (Usado)",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo PS4 FIFA 22",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo PS4 FIFA 21",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo PS4 Driveclub",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Corrida"
+    ],
+    [
+        "titulo" => "Jogo PS4 Detroit Become Human",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Aventura narrativa"
+    ],
+    [
+        "titulo" => "Jogo PS4 Destiny",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo PS4 Call of Duty Modern Warfare",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo PS4 Call of Duty Infinite Warfare",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo PS4 Call of Duty Advanced Warfare",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo PS4 Batman Arkham Knight",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS4 Assassin's Creed IV Black Flag",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS3 The Last of Us",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS3 PES 2018",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo PS3 PES 2013",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo PS3 Need for Speed Undercover",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Corrida"
+    ],
+    [
+        "titulo" => "Jogo PS3 Need for Speed Shift 2 Unleashed",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Corrida"
+    ],
+    [
+        "titulo" => "Jogo PS3 Need for Speed Most Wanted",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Corrida"
+    ],
+    [
+        "titulo" => "Jogo PS3 Mortal Kombat",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Luta"
+    ],
+    [
+        "titulo" => "Jogo PS3 Minecraft PS3 Edition",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Sandbox"
+    ],
+    [
+        "titulo" => "Jogo PS3 LEGO Star Wars The Complete Saga",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS3 GTA V",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS3 GRID",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Corrida"
+    ],
+    [
+        "titulo" => "Jogo PS3 Grand Theft Auto",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo PS3 FIFA 16",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo PS3 FIFA 15",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Esportes"
+    ],
+    [
+        "titulo" => "Jogo PS3 Call of Duty Modern Warfare 2",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo PS3 Brink",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo PS3 Assassin's Creed IV Black Flag",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo Minecraft PS3",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Sandbox"
+    ],
+    [
+        "titulo" => "Jogo Minecraft Microsoft Xbox 360",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox 360, Gênero: Sandbox"
+    ],
+    [
+        "titulo" => "Jogo LEGO Marvel Super Heroes PS3",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Aventura"
+    ],
+    [
+        "titulo" => "Jogo Grand Theft Auto 5",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Multiplataforma, Gênero: Ação e Aventura"
+    ],
+    [
+        "titulo" => "Jogo Far Cry 3 Xbox",
+        "imagem" => "",
+        "informacoes" => "Plataforma: Xbox, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo Far Cry 3 PS3",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo Destiny PS3",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo Dead Island PS3 Novo",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Ação e Terror"
+    ],
+    [
+        "titulo" => "Jogo Call of Duty Black Ops Cold War PS4",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS4, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo Call of Duty Black Ops 3 PS3",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Tiro em primeira pessoa"
+    ],
+    [
+        "titulo" => "Jogo Battlefield 4 PS3",
+        "imagem" => "",
+        "informacoes" => "Plataforma: PS3, Gênero: Tiro em primeira pessoa"
+    ]
+];
+
+
 
 ?>
