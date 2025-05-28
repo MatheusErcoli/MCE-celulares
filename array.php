@@ -607,129 +607,49 @@ $redmi = [
     ],
      [
         "titulo" => "Redmi Mi A3 Cinza/Car/Br",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/redmi/redmimia3cinza.jpg",
         "informacoes" => "Tela: 6,08 polegadas AMOLED, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 128GB, Câmeras: Tripla (48MP + 8MP + 2MP), Bateria: 4030mAh, Cor: Cinza."
     ],
     [
-        "titulo" => "Redmi Mi A2 Rosa(Usado)",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,99 polegadas IPS LCD, Processador: Snapdragon 660, RAM: 4GB, Armazenamento: 64GB, Câmeras: Dupla (12MP + 20MP), Bateria: 3010mAh, Cor: Rosa."
-    ],
-    [
-        "titulo" => "Redmi Mi A2 Preto(Usado)",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,99 polegadas IPS LCD, Processador: Snapdragon 660, RAM: 4GB, Armazenamento: 64GB, Câmeras: Dupla (12MP + 20MP), Bateria: 3010mAh, Cor: Preto."
-    ],
-    [
         "titulo" => "Redmi 9i",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/redmi/redmi9i.jpg",
         "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G25, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: 13MP, Bateria: 5000mAh."
     ],
     [
         "titulo" => "Redmi 9C",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/redmi/redmi9c.jpg",
         "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G35, RAM: 3GB, Armazenamento: 128GB, Câmeras: Tripla (13MP + 2MP + 2MP), Bateria: 5000mAh."
     ],
     [
         "titulo" => "Redmi 9AT",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/redmi/redmi9at.jpg",
         "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G25, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 13MP, Bateria: 5000mAh."
     ],
     [
         "titulo" => "Redmi Note 9 (Usado)",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/redmi/redminote9.jpg",
         "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G85, RAM: 4GB, Armazenamento: 128GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 5020mAh, Produto usado em boas condições."
     ],
     [
-        "titulo" => "Mi Redmi S2",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,99 polegadas IPS LCD, Processador: Snapdragon 625, RAM: 3GB, Armazenamento: 32GB, Câmeras: Dupla (12MP + 5MP), Bateria: 3080mAh."
-    ],
-    [
-        "titulo" => "Mi Redmi Go DS(Semi-novo)",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,0 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 1GB, Armazenamento: 8GB, Câmera traseira: 8MP, Bateria: 3000mAh, Sistema: Android Go."
-    ],
-    [
-        "titulo" => "Mi Redmi Go DS",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,0 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 1GB, Armazenamento: 8GB, Câmera traseira: 8MP, Bateria: 3000mAh, Sistema: Android Go."
-    ],
-    [
         "titulo" => "Mi Redmi 8A(Usado)",
-        "imagem" => "",
+        "imagem" => "miredmi8A.jpg",
         "informacoes" => "Tela: 6,22 polegadas IPS LCD, Processador: Snapdragon 439, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 12MP, Bateria: 5000mAh."
     ],
     [
         "titulo" => "Mi Redmi 8A",
-        "imagem" => "",
+        "imagem" => "miredmi8A.jpg",
         "informacoes" => "Tela: 6,22 polegadas IPS LCD, Processador: Snapdragon 439, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 12MP, Bateria: 5000mAh."
     ],
     [
         "titulo" => "Redmi Note 8T",
-        "imagem" => "",
+        "imagem" => "redminote8t.jpg",
         "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 64GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 4000mAh."
     ],
     [
         "titulo" => "Redmi Note 8T(Semi Novo)",
-        "imagem" => "",
+        "imagem" => "redminote8t.jpg",
         "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 64GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 4000mAh, Produto semi novo."
     ],
-    [
-        "titulo" => "Redmi Note 8 Pro",
-        "imagem" => "",
-        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G90T, RAM: 6GB, Armazenamento: 64GB, Câmeras: Quádrupla (64MP + 8MP + 2MP + 2MP), Bateria: 4500mAh."
-    ],
-    [
-        "titulo" => "Redmi Note 8 Black",
-        "imagem" => "",
-        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 64GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 4000mAh, Cor: Preto."
-    ],
-    [
-        "titulo" => "Redmi Note 8 White",
-        "imagem" => "",
-        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 64GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 4000mAh, Cor: Branco."
-    ],
-    [
-        "titulo" => "Redmi Note 7 Moonlight White",
-        "imagem" => "",
-        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 660, RAM: 4GB, Armazenamento: 64GB, Câmeras: Dupla (48MP + 5MP), Bateria: 4000mAh, Cor: Branco Moonlight."
-    ],
-    [
-        "titulo" => "Mi Redmi 7A(Usado)",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,45 polegadas IPS LCD, Processador: Snapdragon 439, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 12MP, Bateria: 4000mAh."
-    ],
-    [
-        "titulo" => "Mi Redmi 7A",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,45 polegadas IPS LCD, Processador: Snapdragon 439, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 12MP, Bateria: 4000mAh."
-    ],
-    [
-        "titulo" => "Redmi Note 7 Azul",
-        "imagem" => "",
-        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 660, RAM: 3GB, Armazenamento: 64GB, Câmeras: Dupla (48MP + 5MP), Bateria: 4000mAh, Cor: Azul."
-    ],
-     [
-        "titulo" => "Redmi 7 Azul",
-        "imagem" => "",
-        "informacoes" => "Tela: 6,26 polegadas IPS LCD, Processador: Snapdragon 632, RAM: 3GB, Armazenamento: 32GB, Câmeras: Dupla (12MP + 2MP), Bateria: 4000mAh, Cor: Azul."
-    ],
-    [
-        "titulo" => "Redmi 6(Usado)",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,45 polegadas IPS LCD, Processador: MediaTek Helio P22, RAM: 4GB, Armazenamento: 64GB, Câmeras: Dupla (12MP + 5MP), Bateria: 3000mAh."
-    ],
-    [
-        "titulo" => "Redmi Note 5A",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,5 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 2GB, Armazenamento: 16GB, Câmera traseira: 13MP, Bateria: 3080mAh."
-    ],
-    [
-        "titulo" => "Redmi Note 5",
-        "imagem" => "",
-        "informacoes" => "Tela: 5,99 polegadas IPS LCD, Processador: Snapdragon 636, RAM: 3GB, Armazenamento: 32GB, Câmeras: Dupla (12MP + 5MP), Bateria: 4000mAh."
-    ]
 ];
 $motorola = [
     [
@@ -910,19 +830,14 @@ $poco = [
         "informacoes" => "Tela: 6,67 polegadas IPS LCD 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Quádrupla 48 MP + 8 MP + 2 MP + 2 MP, Processador: Qualcomm Snapdragon 860, RAM: 6GB, 8GB"
     ],
      [
-        "titulo" => "Celular Xiaomi Poco X3 GT",
-        "imagem" => "",
+        "titulo" => "Poco X3 GT",
+        "imagem" => "celulares/iphone/poco/pocox3gt.jpg",
         "informacoes" => "Tela: 6,6 polegadas IPS LCD 120Hz, Processador: MediaTek Dimensity 1100, RAM: 8GB, Armazenamento: 256GB, Câmeras: Tripla (64MP + 8MP + 2MP), Bateria: 5000mAh, Carregamento rápido: 67W."
     ],
     [
-        "titulo" => "Celular Xiaomi Poco M3 Pro",
-        "imagem" => "",
+        "titulo" => "Poco M3 Pro",
+        "imagem" => "celulares/iphone/poco/pocom3pro.jpg",
         "informacoes" => "Tela: 6,5 polegadas IPS LCD 90Hz, Processador: MediaTek Dimensity 700, RAM: 4GB, Armazenamento: 64GB, Câmeras: Tripla (48MP + 2MP + 2MP), Bateria: 5000mAh, Conectividade: 5G."
-    ],
-    [
-        "titulo" => "Celular Xiaomi Poco M3",
-        "imagem" => "",
-        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: Snapdragon 662, RAM: 4GB, Armazenamento: 128GB, Câmeras: Tripla (48MP + 2MP + 2MP), Bateria: 6000mAh, Carregamento rápido: 18W."
     ],
     [
         "titulo" => "Poco X3 NFC",
@@ -943,62 +858,57 @@ $poco = [
 $videogame = [
     [
         "titulo"=> "Playstation 5",
-        "imagem"=> "",
+        "imagem"=> "celulares/iphone/videogame/ps5.jpg",
         "informacoes" => "Armazenamento: 825GB SSD, Resolução: Até 8K, Taxa de quadros: Até 120fps, Mídia: Blu-ray Ultra HD, Processador: AMD Ryzen Zen 2 8 núcleos, GPU: AMD RDNA 2, Memória RAM: 16GB GDDR6"
     ],
     [
        "titulo" => "PLAYSTATION 4 COM 1 CONTROLE E 1 JOGO",
-       "imagem" => "",
+       "imagem" => "celulares/iphone/videogame/ps4.jpg",
        "informacoes" => "esse é um console ps4 usado com 1 controle e 1 jogo, o console está em perfeito estado, as Armazenamento: 500GB, 1TB HDD, Resolução: Até 1080p, Taxa de quadros: Até 60fps, Mídia: Blu-ray, Processador: AMD Jaguar 8 núcleos, GPU: AMD GCN, Memória RAM: 8GB GDDR5"
     ],
     [
         "PLAYSTATION 3 500GB e 1 CONTROLE",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/videogame/ps3.jpg",
         "informacoes" => "Este console PS3 vem com 500GB de armazenamento e 1 controle, perfeito para jogos em família ou com amigos, Resolução: Até 1080p, Mídia: Blu-ray, Processador: Cell Broadband Engine 3.2 GHz, GPU: NVIDIA RSX, Memória RAM: 256MB XDR + 256MB GDDR3"
     ],
     [ 
         "titulo"=> "Xbox 360 sem HD usado com jogos",
-        "imagem"=> "",
+        "imagem"=> "celulares/iphone/videogame/xbox360.jpg",
         "informacoes"=> "este é um console usado sem hd mas com jogos juntos" 
     ],
     [
         "titulo"=> "xbox 360 usado com kinect",
-        "imagem"=> "",
+        "imagem"=> "celulares/iphone/videogame/xbox360comkinect.jpg",
         "informacoes"=> "este é um console xbox 360 usado com kinect"
     ],
     [
         "titulo"=> "Controle Xbox 360",
-        "imagem"=> "",
+        "imagem"=> "celulares/iphone/videogame/controlexbox360.jpg",
         "informações"=> "Na nossa loja temos controles Xbox 360 novos e usados, entre em contato para garantir o seu"
     ],
     [
         "titulo" => "Controle Sony PS4 Original",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/videogame/controleps4.jpg",
         "informacoes" => "Compatível com PS4, conexão sem fio via Bluetooth, bateria recarregável, design ergonômico."
     ],
     [
         "titulo" => "Controle Sony PS3 Original",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/videogame/controleps3.jpg",
         "informacoes" => "Compatível com PS3, conexão sem fio via Bluetooth, bateria recarregável, modelo DualShock 3 com sensor de movimento Sixaxis."
     ],
     [
         "titulo" => "Controle PS5 Sem Fio DualSense",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/videogame/controleps5.jpg",
         "informacoes" => "Compatível com PS5, conexão sem fio via Bluetooth, feedback tátil, gatilhos adaptáveis, bateria recarregável, design ergonômico."
     ],
     [
-        "titulo" => "Controle PS4 Sem Fio Colorido Sony",
-        "imagem" => "",
-        "informacoes" => "Compatível com PS4, conexão sem fio via Bluetooth, bateria recarregável, design colorido e ergonômico."
-    ],
-    [
         "titulo" => "Controle PS4 Sem Fio (Usado)",
-        "imagem" => "",
+        "imagem" => "celulares/iphone/videogame/controleps4.jpg",
         "informacoes" => "Compatível com PS4, conexão sem fio via Bluetooth, bateria recarregável, produto usado em boas condições."
     ],
     [
         "titulo"=> "VR box virtual",
-        "imagem"=> "",
+        "imagem"=> "celulares/iphone/videogame/vrbox.jpg",
         "informacoes"=> "óculos de realidade virtual, compatível com smartphones, permite uma experiência de jogo imersiva"
     ],
 ];
