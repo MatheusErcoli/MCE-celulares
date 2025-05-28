@@ -114,17 +114,33 @@ footer{
         margin: 10px 0 !important;
     }
 }
-.imagem{
-    margin-top: 100px;
-    border-radius: 15px;
+.imagem {
+    margin-top: 110px;
 }
-.titulo{
+.imagem2 {
+    margin-top: 20px;
+}
+.imagem,
+.imagem2 {
+    width: 100%;
+    max-width: 650px;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo {
     font-size: 22px;
     font-weight: bold;
     color: black !important;
-    margin-top: 100px;
+    margin-top: 30px;
     text-align: left !important;
 }
+.mobiletitle {
+    margin-top: 110px;
+}
+
 .paragrafo{
     text-align: left !important;
     font-size: 18px;
@@ -135,4 +151,32 @@ h4{
 }
 iframe{
     border-radius: 15px;
+}
+
+@media (max-width: 720px) {
+    .imagem,
+    .imagem2 {
+        max-width: 100%;
+        margin-top: 30px;
+    }
+    .titulo {
+        margin-top: 30px;
+        font-size: 20px;
+        text-align: center !important;
+    }
+    .mobiletitle{
+        margin-top: 100px !important;
+    }
+    .paragrafo {
+        font-size: 18px;
+        text-align: center !important;
+    }
+    h4 {
+        font-size: 20px;
+        margin: 20px;
+    }
+    iframe {
+        width: 100% !important;
+        height: 250px !important;
+    }
 }

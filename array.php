@@ -304,6 +304,81 @@ $samsung = [
         "imagem" => "celulares/iphone/samsung/samsunggalaxys9.jpg",
         "informacoes" => "Tela: 5,8 polegadas Super AMOLED, Armazenamento: 64 GB, 128 GB, 256 GB, Câmera traseira: 12 MP, Processador: Exynos 9810 / Snapdragon 845, RAM: 4 GB"
     ],
+    [
+        "titulo" => "Samsung S6(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,1 polegadas Super AMOLED, Processador: Exynos 7420, RAM: 3GB, Armazenamento: 32GB, Câmera traseira: 16MP, Bateria: 2550mAh."
+    ],
+    [
+        "titulo" => "Samsung S10(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,1 polegadas Dynamic AMOLED, Processador: Exynos 9820, RAM: 8GB, Armazenamento: 128GB + Cartão 128GB, Câmera traseira: Tripla (12MP + 12MP + 16MP), Bateria: 3400mAh."
+    ],
+    [
+        "titulo" => "Samsung M02",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS IPS, Processador: MediaTek MT6739W, RAM: 3GB, Armazenamento: 32GB, Câmera traseira: Dupla (13MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung M02(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS IPS, Processador: MediaTek MT6739W, RAM: 3GB, Armazenamento: 32GB, Câmera traseira: Dupla (13MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung M01 Core",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,3 polegadas PLS TFT, Processador: MediaTek MT6739, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 8MP, Bateria: 3000mAh."
+    ],
+    [
+        "titulo" => "Samsung J8(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,0 polegadas Super AMOLED, Processador: Snapdragon 450, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Dupla (16MP + 5MP), Bateria: 3500mAh."
+    ],
+    [
+        "titulo" => "Samsung J7 Pro(Semi novo)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,5 polegadas Super AMOLED, Processador: Exynos 7870, RAM: 3GB, Armazenamento: 64GB, Câmera traseira: 13MP, Bateria: 3600mAh."
+    ],
+    [
+        "titulo" => "Samsung J200(Semi novo)",
+        "imagem" => "",
+        "informacoes" => "Tela: 4,7 polegadas Super AMOLED, Processador: Exynos 3475, RAM: 1GB, Armazenamento: 8GB, Câmera traseira: 5MP, Bateria: 2000mAh."
+    ],
+    [
+        "titulo" => "Samsung J2 Prime(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,0 polegadas PLS TFT, Processador: MediaTek MT6737T, RAM: 1.5GB, Armazenamento: 16GB, Câmera traseira: 8MP, Bateria: 2600mAh."
+    ],
+    [
+        "titulo" => "Samsung J2 Core Preto",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,0 polegadas PLS TFT, Processador: Exynos 7570, RAM: 1GB, Armazenamento: 16GB, Câmera traseira: 8MP, Bateria: 2600mAh."
+    ],
+    [
+        "titulo" => "Samsung J2 Core J260M Azul",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,0 polegadas PLS TFT, Processador: Exynos 7570, RAM: 1GB, Armazenamento: 16GB, Câmera traseira: 8MP, Bateria: 2600mAh."
+    ],
+    [
+        "titulo" => "Samsung J1 Mini(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 4,0 polegadas TFT, Processador: Spreadtrum SC9830, RAM: 0.75GB, Armazenamento: 8GB, Câmera traseira: 5MP, Bateria: 1500mAh."
+    ],
+    [
+        "titulo" => "Samsung Galaxy J700(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,5 polegadas Super AMOLED, Processador: Exynos 7580, RAM: 1.5GB, Armazenamento: 16GB, Câmera traseira: 13MP, Bateria: 3000mAh."
+    ],
+    [
+        "titulo" => "Samsung Galaxy J4+ Dual Preto",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,0 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 13MP, Bateria: 3300mAh."
+    ],
+    [
+        "titulo" => "Samsung B310E",
+        "imagem" => "",
+        "informacoes" => "Tela: 1,52 polegadas TFT, Armazenamento: Suporte a cartão microSD até 16GB, Câmera traseira: VGA, Bateria: 800mAh, Dual SIM."
+    ]
 ];
 $galaxyA = [
     [
@@ -444,19 +519,19 @@ $Xiaomi =  [
         "informacoes" => "Tela: 6,67 Polegadas AMOLED 90Hz, Armazenamento: 128GB, 256GB, 512GB, Câmera traseira: Quádrupla (108MP + 8MP + 12MP + 20MP), Processador: Snapdragon 865, RAM: 8GB, 12GB"
     ],
     [
-        "titulo" => "Celular Xiaomi Redmi Note 9S 4GB RAM 128GB Grey",
+        "titulo" => "Xiaomi Note 10 S Ocean Blue",
         "imagem" => "",
-        "informacoes" => "Tela: 6,67 polegadas IPS LCD, Processador: Snapdragon 720G, RAM: 4GB, Armazenamento: 128GB, Câmeras: Quádrupla (48MP + 8MP + 5MP + 2MP), Bateria: 5020mAh, Cor: Cinza (Grey)."
+        "informacoes" => "Tela: 6,43 polegadas AMOLED, Processador: MediaTek Helio G95, RAM: 6GB, Armazenamento: 64GB, Câmeras: Quádrupla (64MP + 8MP + 2MP + 2MP), Bateria: 5000mAh, Carregamento rápido: 33W."
     ],
     [
-        "titulo" => "Celular Xiaomi Redmi Note 9 4GB RAM 128GB Polar White",
+        "titulo" => "Xiaomi Note 10 S (Semi-novo)",
         "imagem" => "",
-        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G85, RAM: 4GB, Armazenamento: 128GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 5020mAh, Cor: Branco Polar (Polar White)."
+        "informacoes" => "Tela: 6,43 polegadas AMOLED, Processador: MediaTek Helio G95, RAM: 6GB, Armazenamento: 64GB, Câmeras: Quádrupla (64MP + 8MP + 2MP + 2MP), Bateria: 5000mAh, Carregamento rápido: 33W."
     ],
     [
-        "titulo" => "Celular Xiaomi Redmi Note 9 128GB 4GB RAM (Usado)",
+        "titulo" => "Xiaomi Note 10 5G",
         "imagem" => "",
-        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G85, RAM: 4GB, Armazenamento: 128GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 5020mAh, Produto usado em boas condições."
+        "informacoes" => "Tela: 6,5 polegadas IPS LCD 90Hz, Processador: MediaTek Dimensity 700, RAM: 4GB, Armazenamento: 128GB, Câmeras: Tripla (48MP + 2MP + 2MP), Bateria: 5000mAh, Conectividade: 5G."
     ]
 ];
 $redmi = [
@@ -496,6 +571,11 @@ $redmi = [
         "informacoes" => "Tela: 6,79 Polegadas FHD+ 90Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Tripla 50MP + 8MP + 2MP, Processador: MediaTek Helio G88, RAM: 4GB, 8GB"
     ],
     [
+        "titulo" => "Redmi Note 10 Pro Max Dark",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,67 polegadas AMOLED 120Hz, Processador: Snapdragon 732G, RAM: 6GB, Armazenamento: 128GB, Câmeras: Quádrupla (108MP + 8MP + 5MP + 2MP), Bateria: 5020mAh, Cor: Dark."
+    ],
+    [
         "titulo" => "Redmi 10",
         "imagem" => "celulares/iphone/redmi/redmi10.jpg",
         "informacoes" => "Tela: 6,5 Polegadas FHD+ 90Hz, Armazenamento: 64GB, 128GB, Câmera traseira: Quádrupla 50MP + 8MP + 2MP + 2MP, Processador: MediaTek Helio G88, RAM: 4GB, 6GB"
@@ -514,6 +594,131 @@ $redmi = [
         "titulo" => "Redmi 9",
         "imagem" => "celulares/iphone/redmi/redmi9.jpg",
         "informacoes" => "Tela: 6,53 Polegadas FHD+, Armazenamento: 32GB, 64GB, 128GB, Câmera traseira: Quádrupla 13MP + 8MP + 5MP + 2MP, Processador: MediaTek Helio G80, RAM: 3GB, 4GB, 6GB"
+    ],
+     [
+        "titulo" => "Redmi Mi A3 Cinza/Car/Br",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,08 polegadas AMOLED, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 128GB, Câmeras: Tripla (48MP + 8MP + 2MP), Bateria: 4030mAh, Cor: Cinza."
+    ],
+    [
+        "titulo" => "Redmi Mi A2 Rosa(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,99 polegadas IPS LCD, Processador: Snapdragon 660, RAM: 4GB, Armazenamento: 64GB, Câmeras: Dupla (12MP + 20MP), Bateria: 3010mAh, Cor: Rosa."
+    ],
+    [
+        "titulo" => "Redmi Mi A2 Preto(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,99 polegadas IPS LCD, Processador: Snapdragon 660, RAM: 4GB, Armazenamento: 64GB, Câmeras: Dupla (12MP + 20MP), Bateria: 3010mAh, Cor: Preto."
+    ],
+    [
+        "titulo" => "Redmi 9i",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G25, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: 13MP, Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Redmi 9C",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G35, RAM: 3GB, Armazenamento: 128GB, Câmeras: Tripla (13MP + 2MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Redmi 9AT",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G25, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 13MP, Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Redmi Note 9 (Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G85, RAM: 4GB, Armazenamento: 128GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 5020mAh, Produto usado em boas condições."
+    ],
+    [
+        "titulo" => "Mi Redmi S2",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,99 polegadas IPS LCD, Processador: Snapdragon 625, RAM: 3GB, Armazenamento: 32GB, Câmeras: Dupla (12MP + 5MP), Bateria: 3080mAh."
+    ],
+    [
+        "titulo" => "Mi Redmi Go DS(Semi-novo)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,0 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 1GB, Armazenamento: 8GB, Câmera traseira: 8MP, Bateria: 3000mAh, Sistema: Android Go."
+    ],
+    [
+        "titulo" => "Mi Redmi Go DS",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,0 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 1GB, Armazenamento: 8GB, Câmera traseira: 8MP, Bateria: 3000mAh, Sistema: Android Go."
+    ],
+    [
+        "titulo" => "Mi Redmi 8A(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,22 polegadas IPS LCD, Processador: Snapdragon 439, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 12MP, Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Mi Redmi 8A",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,22 polegadas IPS LCD, Processador: Snapdragon 439, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 12MP, Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Redmi Note 8T",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 64GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 4000mAh."
+    ],
+    [
+        "titulo" => "Redmi Note 8T(Semi Novo)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 64GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 4000mAh, Produto semi novo."
+    ],
+    [
+        "titulo" => "Redmi Note 8 Pro",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: MediaTek Helio G90T, RAM: 6GB, Armazenamento: 64GB, Câmeras: Quádrupla (64MP + 8MP + 2MP + 2MP), Bateria: 4500mAh."
+    ],
+    [
+        "titulo" => "Redmi Note 8 Black",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 64GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 4000mAh, Cor: Preto."
+    ],
+    [
+        "titulo" => "Redmi Note 8 White",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 665, RAM: 4GB, Armazenamento: 64GB, Câmeras: Quádrupla (48MP + 8MP + 2MP + 2MP), Bateria: 4000mAh, Cor: Branco."
+    ],
+    [
+        "titulo" => "Redmi Note 7 Moonlight White",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 660, RAM: 4GB, Armazenamento: 64GB, Câmeras: Dupla (48MP + 5MP), Bateria: 4000mAh, Cor: Branco Moonlight."
+    ],
+    [
+        "titulo" => "Mi Redmi 7A(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,45 polegadas IPS LCD, Processador: Snapdragon 439, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 12MP, Bateria: 4000mAh."
+    ],
+    [
+        "titulo" => "Mi Redmi 7A",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,45 polegadas IPS LCD, Processador: Snapdragon 439, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 12MP, Bateria: 4000mAh."
+    ],
+    [
+        "titulo" => "Redmi Note 7 Azul",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,3 polegadas IPS LCD, Processador: Snapdragon 660, RAM: 3GB, Armazenamento: 64GB, Câmeras: Dupla (48MP + 5MP), Bateria: 4000mAh, Cor: Azul."
+    ],
+     [
+        "titulo" => "Redmi 7 Azul",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,26 polegadas IPS LCD, Processador: Snapdragon 632, RAM: 3GB, Armazenamento: 32GB, Câmeras: Dupla (12MP + 2MP), Bateria: 4000mAh, Cor: Azul."
+    ],
+    [
+        "titulo" => "Redmi 6(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,45 polegadas IPS LCD, Processador: MediaTek Helio P22, RAM: 4GB, Armazenamento: 64GB, Câmeras: Dupla (12MP + 5MP), Bateria: 3000mAh."
+    ],
+    [
+        "titulo" => "Redmi Note 5A",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,5 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 2GB, Armazenamento: 16GB, Câmera traseira: 13MP, Bateria: 3080mAh."
+    ],
+    [
+        "titulo" => "Redmi Note 5",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,99 polegadas IPS LCD, Processador: Snapdragon 636, RAM: 3GB, Armazenamento: 32GB, Câmeras: Dupla (12MP + 5MP), Bateria: 4000mAh."
     ]
 ];
 $motorola = [
@@ -693,6 +898,21 @@ $poco = [
         "titulo" => "Poco X3 Pro",
         "imagem" => "celulares/iphone/poco/pocox3pro.jpg",
         "informacoes" => "Tela: 6,67 polegadas IPS LCD 120Hz, Armazenamento: 128GB, 256GB, Câmera traseira: Quádrupla 48 MP + 8 MP + 2 MP + 2 MP, Processador: Qualcomm Snapdragon 860, RAM: 6GB, 8GB"
+    ],
+     [
+        "titulo" => "Celular Xiaomi Poco X3 GT",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,6 polegadas IPS LCD 120Hz, Processador: MediaTek Dimensity 1100, RAM: 8GB, Armazenamento: 256GB, Câmeras: Tripla (64MP + 8MP + 2MP), Bateria: 5000mAh, Carregamento rápido: 67W."
+    ],
+    [
+        "titulo" => "Celular Xiaomi Poco M3 Pro",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas IPS LCD 90Hz, Processador: MediaTek Dimensity 700, RAM: 4GB, Armazenamento: 64GB, Câmeras: Tripla (48MP + 2MP + 2MP), Bateria: 5000mAh, Conectividade: 5G."
+    ],
+    [
+        "titulo" => "Celular Xiaomi Poco M3",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,53 polegadas IPS LCD, Processador: Snapdragon 662, RAM: 4GB, Armazenamento: 128GB, Câmeras: Tripla (48MP + 2MP + 2MP), Bateria: 6000mAh, Carregamento rápido: 18W."
     ],
     [
         "titulo" => "Poco X3 NFC",
