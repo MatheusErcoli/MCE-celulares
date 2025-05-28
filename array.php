@@ -132,6 +132,26 @@ $iphone = [
         "imagem" => "celulares/iphone/iphoneX.jpg",
         "informacoes" => "Tela: 5,8 polegadas OLED Super Retina, Armazenamento: 64 GB, 256 GB, Câmera traseira: Dupla 12 MP, Processador: A11 Bionic, RAM: 3 GB"
     ],
+    [
+        "titulo" => "iPhone 8 Plus(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,5 polegadas Retina HD, Processador: Apple A11 Bionic, RAM: 3GB, Armazenamento: 64GB, Câmera traseira: Dupla (12MP + 12MP), Bateria: 2691mAh."
+    ],
+    [
+        "titulo" => "iPhone 8(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 4,7 polegadas Retina HD, Processador: Apple A11 Bionic, RAM: 2GB, Armazenamento: 64GB, Câmera traseira: 12MP, Bateria: 1821mAh."
+    ],
+    [
+        "titulo" => "iPhone 7 Plus Preto(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,5 polegadas Retina HD, Processador: Apple A10 Fusion, RAM: 3GB, Armazenamento: 32GB, Câmera traseira: Dupla (12MP + 12MP), Bateria: 2900mAh."
+    ],
+    [
+        "titulo" => "iPhone 7(Semi Novo)",
+        "imagem" => "",
+        "informacoes" => "Tela: 4,7 polegadas Retina HD, Processador: Apple A10 Fusion, RAM: 2GB, Armazenamento: 256GB, Câmera traseira: 12MP, Bateria: 1960mAh."
+    ],
      [
         "titulo" => "iPhone 5S Usado",
         "imagem" => "",
@@ -289,6 +309,26 @@ $samsung = [
         "imagem" => "celulares/iphone/samsung/samsunggalaxys10e.jpg",
         "informacoes" => "Tela: 5,8 polegadas Dynamic AMOLED, Armazenamento: 128 GB, 256 GB, Câmera traseira: Dupla 12 MP + 16 MP, Processador: Exynos 9820 / Snapdragon 855, RAM: 6 GB, 8 GB"
     ],
+    [
+        "titulo" => "Samsung A12(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS LCD, Processador: MediaTek Helio P35, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Quádrupla (48MP + 5MP + 2MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A11",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,4 polegadas PLS TFT, Processador: Snapdragon 450, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: Tripla (13MP + 5MP + 2MP), Bateria: 4000mAh."
+    ],
+    [
+        "titulo" => "Samsung A10s LTE",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,2 polegadas PLS TFT, Processador: MediaTek Helio P22, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: Dupla (13MP + 2MP), Bateria: 4000mAh."
+    ],
+    [
+        "titulo" => "Samsung A10s(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,2 polegadas PLS TFT, Processador: MediaTek Helio P22, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: Dupla (13MP + 2MP), Bateria: 4000mAh."
+    ],
      [
         "titulo" => "Samsung Galaxy Note9",
         "imagem" => "celulares/iphone/samsung/samsunggalaxynote9.jpg",
@@ -340,6 +380,46 @@ $samsung = [
         "informacoes" => "Tela: 5,5 polegadas Super AMOLED, Processador: Exynos 7870, RAM: 3GB, Armazenamento: 64GB, Câmera traseira: 13MP, Bateria: 3600mAh."
     ],
     [
+        "titulo" => "Samsung J6+(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,0 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 3GB, Armazenamento: 32GB, Câmera traseira: Dupla (13MP + 5MP), Bateria: 3300mAh."
+    ],
+    [
+        "titulo" => "Samsung J5 Metal(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,2 polegadas Super AMOLED, Processador: Snapdragon 410, RAM: 2GB, Armazenamento: 16GB, Câmera traseira: 13MP, Bateria: 3100mAh."
+    ],
+    [
+        "titulo" => "Samsung J5 Dourado(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,0 polegadas Super AMOLED, Processador: Snapdragon 410, RAM: 1.5GB, Armazenamento: 16GB, Câmera traseira: 13MP, Bateria: 2600mAh."
+    ],
+    [
+        "titulo" => "Samsung J4+(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,0 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 13MP, Bateria: 3300mAh."
+    ],
+    [
+        "titulo" => "Samsung J4 Preto(Seminovo)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,5 polegadas Super AMOLED, Processador: Exynos 7570, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 13MP, Bateria: 3000mAh."
+    ],
+    [
+        "titulo" => "Samsung J4 Core(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,0 polegadas IPS LCD, Processador: Snapdragon 425, RAM: 1GB, Armazenamento: 16GB, Câmera traseira: 8MP, Bateria: 3300mAh."
+    ],
+    [
+        "titulo" => "Samsung J4(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,5 polegadas Super AMOLED, Processador: Exynos 7570, RAM: 2GB, Armazenamento: 16GB, Câmera traseira: 13MP, Bateria: 3000mAh."
+    ],
+    [
+        "titulo" => "Samsung J3(Seminovo)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,0 polegadas Super AMOLED, Processador: Exynos 7570 ou Snapdragon 425 (varia conforme a versão), RAM: 1.5GB ou 2GB, Armazenamento: 16GB, Câmera traseira: 8MP, Bateria: 2600mAh."
+    ],
+    [
         "titulo" => "Samsung J200(Semi novo)",
         "imagem" => "",
         "informacoes" => "Tela: 4,7 polegadas Super AMOLED, Processador: Exynos 3475, RAM: 1GB, Armazenamento: 8GB, Câmera traseira: 5MP, Bateria: 2000mAh."
@@ -378,9 +458,114 @@ $samsung = [
         "titulo" => "Samsung B310E",
         "imagem" => "",
         "informacoes" => "Tela: 1,52 polegadas TFT, Armazenamento: Suporte a cartão microSD até 16GB, Câmera traseira: VGA, Bateria: 800mAh, Dual SIM."
-    ]
+    ],
+    [
+        "titulo" => "Samsung A16",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,6 polegadas PLS LCD, Processador: MediaTek Helio G99, RAM: 8GB, Armazenamento: 256GB, Câmera traseira: Tripla (50MP + 5MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A15 5G",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas Super AMOLED, Processador: MediaTek Dimensity 6100+, RAM: 8GB, Armazenamento: 256GB, Câmera traseira: Tripla (50MP + 5MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A14 5G(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,6 polegadas PLS LCD, Processador: MediaTek Dimensity 700, RAM: 4GB, Armazenamento: 128GB, Câmera traseira: Tripla (50MP + 2MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A13(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,6 polegadas PLS LCD, Processador: Exynos 850, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Quádrupla (50MP + 5MP + 2MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A12(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS TFT, Processador: MediaTek Helio P35, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Quádrupla (48MP + 5MP + 2MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A06",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS LCD, Processador: MediaTek Helio G85, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Dupla (50MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A05",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,7 polegadas PLS LCD, Processador: MediaTek Helio G85, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Dupla (50MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A05(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,7 polegadas PLS LCD, Processador: MediaTek Helio G85, RAM: 4GB, Armazenamento: 128GB, Câmera traseira: Dupla (50MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A04s",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS LCD, Processador: Exynos 850, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Tripla (50MP + 2MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A04e(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS LCD, Processador: MediaTek Helio P35, RAM: 3GB, Armazenamento: 64GB, Câmera traseira: Dupla (13MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A04e",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS LCD, Processador: MediaTek Helio P35, RAM: 3GB, Armazenamento: 32GB, Câmera traseira: Dupla (13MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A03s(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS LCD, Processador: MediaTek Helio P35, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Tripla (13MP + 2MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A03 Core(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS LCD, Processador: Unisoc SC9863A, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 8MP, Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A03(Semi Novo)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS LCD, Processador: Unisoc T606, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Dupla (48MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A03",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS LCD, Processador: Unisoc T606, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Dupla (48MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A05s",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,7 polegadas PLS LCD, Processador: Snapdragon 680, RAM: 4GB, Armazenamento: 128GB, Câmera traseira: Tripla (50MP + 2MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A02s(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas PLS TFT, Processador: Snapdragon 450, RAM: 3GB, Armazenamento: 32GB, Câmera traseira: Tripla (13MP + 2MP + 2MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A01 Core(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,3 polegadas PLS TFT, Processador: MediaTek MT6739, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: 8MP, Bateria: 3000mAh."
+    ],
+    [
+        "titulo" => "Samsung A01 Core",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,3 polegadas PLS TFT, Processador: MediaTek MT6739, RAM: 1GB, Armazenamento: 16GB, Câmera traseira: 8MP, Bateria: 3000mAh."
+    ],
+    [
+        "titulo" => "Samsung A01(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 5,7 polegadas PLS TFT, Processador: Snapdragon 439, RAM: 2GB, Armazenamento: 32GB, Câmera traseira: Dupla (13MP + 2MP), Bateria: 3000mAh."
+    ],
 ];
 $galaxyA = [
+    [
+        "titulo" => "Samsung A56 5G",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,5 polegadas Super AMOLED, RAM: 8GB, Armazenamento: 128GB. Modelo não oficial, provavelmente versão não homologada."
+    ],
     [
         "titulo" => "Samsung Galaxy A55 5G",
         "imagem" => "celulares/iphone/galaxyA/galaxyA55 5g.jpg",
@@ -427,6 +612,11 @@ $galaxyA = [
         "informacoes" => "Tela: 6,7 polegadas Super AMOLED Plus, Armazenamento: 128 GB, Câmera traseira: Quádrupla 64 MP + 12 MP + 5 MP + 5 MP, Processador: Snapdragon 730, RAM: 6 GB, 8 GB"
     ],
     [
+        "titulo" => "Samsung A70(Semi novo)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,7 polegadas Super AMOLED, Processador: Snapdragon 675, RAM: 6GB, Armazenamento: 128GB, Câmera traseira: Tripla (32MP + 8MP + 5MP), Bateria: 4500mAh."
+    ],
+    [
         "titulo" => "Samsung Galaxy A51",
         "imagem" => "celulares/iphone/galaxyA/galaxy A51.jpg",
         "informacoes" => "Tela: 6,5 polegadas Super AMOLED, Armazenamento: 64 GB, 128 GB, 256 GB, Câmera traseira: Quádrupla 48 MP + 12 MP + 5 MP + 5 MP, Processador: Exynos 9611, RAM: 4 GB, 6 GB, 8 GB"
@@ -435,6 +625,16 @@ $galaxyA = [
         "titulo" => "Samsung Galaxy A50",
         "imagem" => "celulares/iphone/galaxyA/galaxy A50.jpg",
         "informacoes" => "Tela: 6,4 polegadas Super AMOLED, Armazenamento: 64 GB, 128 GB, Câmera traseira: Tripla 25 MP + 8 MP + 5 MP, Processador: Exynos 9610, RAM: 4 GB, 6 GB"
+    ],
+     [
+        "titulo" => "Samsung A31 LTE",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,4 polegadas Super AMOLED, Processador: MediaTek Helio P65, RAM: 4GB, Armazenamento: 128GB, Câmera traseira: Quádrupla (48MP + 8MP + 5MP + 5MP), Bateria: 5000mAh."
+    ],
+    [
+        "titulo" => "Samsung A30s(Usado)",
+        "imagem" => "",
+        "informacoes" => "Tela: 6,4 polegadas Super AMOLED, Processador: Exynos 7904, RAM: 4GB, Armazenamento: 64GB, Câmera traseira: Tripla (25MP + 8MP + 5MP), Bateria: 4000mAh."
     ],
     [
         "titulo" => "Samsung Galaxy A30",
@@ -1029,6 +1229,11 @@ $perifericos = [
         "informacoes" => "na loja temos relógios smartwatchs de vários modelos entre várias marcas, entre em contato para garantir o seu"
     ],
     [
+        "titulo"=> "Caixa de Som",
+        "imagem"=> "",
+        "informacoes"=> "Na loja temos caixas de som de vários modelos e marcas, entre em contato para garantir a sua"
+    ],
+    [
         "titulo" => "pulseira Smart",
         "imagem" => "",
         "informacoes" => "Assim como o relógio smartwatch, a pulseira smart tem vários modelos e marcas dentre elas pulseiras da Xiaomi e Apple, entre em contato para garantir a sua"
@@ -1228,21 +1433,6 @@ $jogos = [
         "titulo" => "Jogo PS4 Marvel Super Heroes",
         "imagem" => "",
         "informacoes" => "Plataforma: PS4, Gênero: Aventura"
-    ],
-    [
-        "titulo" => "Jogo PS4 Linha TOP",
-        "imagem" => "",
-        "informacoes" => "Plataforma: PS4"
-    ],
-    [
-        "titulo" => "Jogo PS4 Linha S",
-        "imagem" => "",
-        "informacoes" => "Plataforma: PS4"
-    ],
-    [
-        "titulo" => "Jogo PS4 Linha MP",
-        "imagem" => "",
-        "informacoes" => "Plataforma: PS4"
     ],
     [
         "titulo" => "Jogo PS4 Horizon Zero Dawn",
