@@ -37,12 +37,12 @@
               <a class="nav-link hover" href="servicos">Serviços</a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle hover" href="#" role="button" data-bs-toggle="dropdown"
+              <a class="nav-link dropdown-toggle hover" href="produtos" role="button" data-bs-toggle="dropdown"
                 aria-expanded="false">
                 Produtos
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Celulares</a></li>
+                <li><a class="dropdown-item" href="produtos">Celulares</a></li>
                 <li><a class="dropdown-item" href="#">X</a></li>
                 <li><a class="dropdown-item" href="#">Y</a></li>
               </ul>

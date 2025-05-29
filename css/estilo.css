@@ -180,3 +180,36 @@ iframe{
         height: 250px !important;
     }
 }
+.conteudo{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+.margin-top{
+    margin-top: 100px;
+}
+aside{
+    border: 2px solid purple;
+    margin-top: 120px;
+    padding: 15px 10px;
+    left: 40px;
+    border-radius: 20px;
+    h5{
+        font-weight: bold;
+    }
+    ul{
+        padding: 0;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        font-size: 14px;
+        margin: 15px;
+        cursor: pointer;
+    }    
+    a:hover{
+        color: purple;
+        transition: 0.3s;
+    }
+}
+
