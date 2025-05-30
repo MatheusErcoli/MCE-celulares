@@ -22,40 +22,40 @@ $iphone = [
     ],
       ["titulo" => "iPhone 15 Pro Max",
      "imagem" => "celulares/iphone/iphome15promax.jpg",
-     "informações" => "Tela: 6,7 polegadas OLED, Armazenamento: 128 GB, 256 GB, 512 GB, 1TB, Câmera traseira: tripla (com periscópio 5x), Processador: A17 pro, RAM: 6 GB"
+     "informacoes" => "Tela: 6,7 polegadas OLED, Armazenamento: 128 GB, 256 GB, 512 GB, 1TB, Câmera traseira: tripla (com periscópio 5x), Processador: A17 pro, RAM: 6 GB"
     ],
      ["titulo" => "iPhone 15 Pro",
      "imagem" => "celulares/iphone/iphone15pro.jpg",
-      "informações" => "Tela: 6,1 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, 1TB, Câmera traseira: Dupla (48 MP + ultra-wide), Processador: A17 pro, RAM: 6 GB"
+      "informacoes" => "Tela: 6,1 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, 1TB, Câmera traseira: Dupla (48 MP + ultra-wide), Processador: A17 pro, RAM: 6 GB"
     ],
      ["titulo" => "iPhone 15 Plus",
      "imagem" => "celulares/iphone/iphone15plus.jpg",
-      "informações" => "Tela: 6,7 polegadas OLED, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera traseira: Dupla (48 MP + ultra-wide), Processador: A16, RAM: 6 GB"
+      "informacoes" => "Tela: 6,7 polegadas OLED, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera traseira: Dupla (48 MP + ultra-wide), Processador: A16, RAM: 6 GB"
     ],
     ["titulo" => "iPhone 15",
      "imagem" => "celulares/iphone/iphone15.jpg",
-      "informações" => "Tela: 6,1 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera traseira: Dupla (48 MP + ultra-wide), Processador: A16, RAM: 6 GB"
+      "informacoes" => "Tela: 6,1 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera traseira: Dupla (48 MP + ultra-wide), Processador: A16, RAM: 6 GB"
     ],
     ["titulo" => "iPhone 14 Pro Max",
      "imagem" => "celulares/iphone/iphone14promax.jpg",
-      "informaçôes" => "Tela: 6,7 polegadas com ProMotion(120 Hz), Armazenamento: 128 GB, 256 GB, 512 GB, 1TB, Câmera traseira: Tripla (wide 48 MP + ultra + tele) + LiDAR, Processador: A16 Bionic, RAM: 6 GB"
+      "informacoes" => "Tela: 6,7 polegadas com ProMotion(120 Hz), Armazenamento: 128 GB, 256 GB, 512 GB, 1TB, Câmera traseira: Tripla (wide 48 MP + ultra + tele) + LiDAR, Processador: A16 Bionic, RAM: 6 GB"
     ],
      ["titulo" => "iPhone 14 Pro",
      "imagem" => "celulares/iphone/iphone14pro.jpg",
-     "informaçôes" => "Tela: 6,1 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, 1TB, Câmera traseira: Tripla (wide 48 MP + ultra + tele) + LiDAR, Processador: A16 Bionic, RAM: 6 GB"
+     "informacoes" => "Tela: 6,1 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, 1TB, Câmera traseira: Tripla (wide 48 MP + ultra + tele) + LiDAR, Processador: A16 Bionic, RAM: 6 GB"
     ],
     ["titulo" => "iPhone 14 Plus",
      "imagem" => "celulares/iphone/iphone14plus.jpg",
-      "informações"=> "Tela: 6,7 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera: Dupla 12 MP, Processador: A15 Bionic, RAM: 6 GB" 
+      "informacoes"=> "Tela: 6,7 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera: Dupla 12 MP, Processador: A15 Bionic, RAM: 6 GB" 
     ],
     ["titulo" => "iPhone 14",
      "imagem" => "celulares/iphone/iphone14.jpg",
-     "informações"=> "Tela: 6,1 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera: Dupla 12 MP, Processador: A15 Bionic, RAM: 6 GB" 
+     "informacoes"=> "Tela: 6,1 polegadas, Armazenamento: 128 GB, 256 GB, 512 GB, Câmera: Dupla 12 MP, Processador: A15 Bionic, RAM: 6 GB" 
     ],
     [
     "titulo" => "iPhone SE (terceira geração)",
      "imagem" => "celulares/iphone/iphoneSE.jpg",
-      "informaçôes"=> "Tela: 4,7 polegadas, Armazenamento: 64 GB, 128 GB, 256 GB, Câmera traseira: 12 MP, Processador: A15 Bionic, RAM: 4 GB"
+      "informacoes"=> "Tela: 4,7 polegadas, Armazenamento: 64 GB, 128 GB, 256 GB, Câmera traseira: 12 MP, Processador: A15 Bionic, RAM: 4 GB"
     ],
     [
         "titulo" => "iPhone 13 Pro Max",
@@ -884,7 +884,7 @@ $videogame = [
     [
         "titulo"=> "Controle Xbox 360",
         "imagem"=> "celulares/iphone/videogame/controlexbox360.jpg",
-        "informações"=> "Na nossa loja temos controles Xbox 360 novos e usados, entre em contato para garantir o seu"
+        "informacoes"=> "Na nossa loja temos controles Xbox 360 novos e usados, entre em contato para garantir o seu"
     ],
     [
         "titulo" => "Controle Sony PS4 Original",

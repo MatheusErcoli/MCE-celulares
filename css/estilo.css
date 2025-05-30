@@ -186,6 +186,7 @@ iframe{
 }
 .margin-top{
     margin-top: 100px;
+    font-weight: bold;
 }
 aside{
     border: 2px solid purple;
@@ -209,7 +210,38 @@ aside{
     }    
     a:hover{
         color: purple;
-        transition: 0.3s;
+        transition: 0.5s;
     }
 }
-
+.subtitulo{
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.texto-produtos{
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    padding-top: 70px;
+    width: 70%;
+    margin: auto;
+    
+}
+.text-decoration-none {
+    text-decoration: none;
+}
+.link-produto{
+    color: black;
+}
+.accordion-body {
+    background-color: #fff !important;
+    color: #000 !important;
+}
+.accordion-item {
+    background-color: #fff !important;
+}
+.fundo{
+    background-color: #fff !important;
+    color: #000 !important;
+}
