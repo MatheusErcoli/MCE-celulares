@@ -698,11 +698,6 @@ $motorola = [
         "informacoes" => "Tela: 6,5 polegadas OLED 144Hz, Armazenamento: 128 GB, Câmera traseira: Tripla 50 MP + 50 MP + 2 MP, Processador: Snapdragon 778G+, RAM: 6 GB"
     ],
     [
-        "titulo" => "Motorola Razr 5G",
-        "imagem" => "celulares/iphone/motorola/motorolarazr5g.jpg",
-        "informacoes" => "Tela: 6,2 polegadas P-OLED dobrável, Armazenamento: 256 GB, Câmera traseira: 48 MP, Processador: Snapdragon 765G, RAM: 8 GB"
-    ],
-    [
         "titulo" => "Motorola Moto G8 Play",
         "imagem" => "celulares/iphone/motorola/motorolamotog8play.jpg",
         "informacoes" => "Tela: 6,2 polegadas LCD, Armazenamento: 32 GB, Câmera traseira: Tripla 13 MP + 8 MP + 2 MP, Processador: MediaTek Helio P70M, RAM: 2 GB"
@@ -867,7 +862,7 @@ $videogame = [
        "informacoes" => "esse é um console ps4 usado com 1 controle e 1 jogo, o console está em perfeito estado, as Armazenamento: 500GB, 1TB HDD, Resolução: Até 1080p, Taxa de quadros: Até 60fps, Mídia: Blu-ray, Processador: AMD Jaguar 8 núcleos, GPU: AMD GCN, Memória RAM: 8GB GDDR5"
     ],
     [
-        "PLAYSTATION 3 500GB e 1 CONTROLE",
+        "titulo" => "PLAYSTATION 3 500GB e 1 CONTROLE",
         "imagem" => "celulares/iphone/videogame/ps3.jpg",
         "informacoes" => "Este console PS3 vem com 500GB de armazenamento e 1 controle, perfeito para jogos em família ou com amigos, Resolução: Até 1080p, Mídia: Blu-ray, Processador: Cell Broadband Engine 3.2 GHz, GPU: NVIDIA RSX, Memória RAM: 256MB XDR + 256MB GDDR3"
     ],
