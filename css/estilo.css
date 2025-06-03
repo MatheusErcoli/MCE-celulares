@@ -245,3 +245,12 @@ aside{
     background-color: #fff !important;
     color: #000 !important;
 }
+.card-format{
+    height: 600px;
+}
+.card-format2{
+    height: 500px;
+}
+.card-format3{
+    height: 575px;
+}
