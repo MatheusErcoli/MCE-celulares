@@ -339,7 +339,7 @@
             }
             ?>
         </div>
-        <h1 class="text-center subtitulo" id="videogames">Videogames:</h1>
+        <h1 class="text-center subtitulo" id="videogames">Videogames e jogos:</h1>
         <div class="row">
             <?php
             foreach ($videogame as $index => $game) {
@@ -370,6 +370,49 @@
                                     <div class="accordion-body">
                                         <p class="card-text">
                                             <?php echo $game['informacoes']; ?>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <?php
+            }
+            ?>
+        </div>
+        <div class="row">
+            <?php
+            foreach ($jogos as $index => $jogo) {
+              
+                $accordionId = "accordion" . $index;
+                ?>
+                <div class="col-12 col-md-3 mb-4">
+                    <a href="contato" class="text-decoration-none">
+                        <div class="card">
+                            <img src="<?= $jogo['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                    </a>
+                    <div class="card-body fundo">
+                        <p class="link-produto fw-bold">
+                            <?php echo $jogo['titulo']; ?>
+                        </p>
+
+                        <div class="accordion" id="<?= $accordionId ?>">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="heading<?= $index ?>">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse<?= $index ?>" aria-expanded="false"
+                                        aria-controls="collapse<?= $index ?>">
+                                        Mais Detalhes
+                                    </button>
+                                </h2>
+                                <div id="collapse<?= $index ?>" class="accordion-collapse collapse"
+                                    aria-labelledby="heading<?= $index ?>" data-bs-parent="#<?= $accordionId ?>">
+                                    <div class="accordion-body">
+                                        <p class="card-text">
+                                            <?php echo $jogo['informacoes']; ?>
                                         </p>
                                     </div>
                                 </div>
