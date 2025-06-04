@@ -1,10 +1,10 @@
 <div class="container px-4 text-center">
   <div class="container px-4 text-center">
-    <div class="row gx-5">
+    <div class="row gx-5 mobile-margin">
       <div class="col-12 col-md-6 col-mb-4">
        <div class="card" style="width: 100%">
          <a href="servicos"><img src="imagens/loja.jpeg" class="card-img-top" alt="loja"></a>
-         <a href="servicos" class="decoration"> <div class="card-body">
+         <a href="servicos" class="decoration"> <div class="card-body ">
             <p class="card-text">Quer algum tipo de assistência técnica? </p>
           </div></a>
         </div>

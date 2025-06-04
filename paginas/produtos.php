@@ -1,25 +1,25 @@
 <main class="container">
     <div class="conteudo">
-        <div>
-            <aside>
-                <ul>
+        <div class="mobile-hidden">
+            <aside> 
+                <ul class="list-group">
                     <h5 class="text-center">Atalho:</h5>
-                    <li><a href="?param=produtos#iphone">Apple iphone</a></li>
-                    <li><a href="?param=produtos#samsung">Samsung</a></li>
-                    <li><a href="?param=produtos#galaxy">Samsung Galaxy A</a></li>
-                    <li><a href="?param=produtos#xiaomi">Xiaomi</a></li>
-                    <li><a href="?param=produtos#Redmi">Redmi</a></li>
-                    <li><a href="?param=produtos#poco">Poco</a></li>
-                    <li><a href="?param=produtos#motorola">Motorola</a></li>
-                    <li><a href="?param=produtos#videogames">Videogames e jogos</a></li>
-                    <li><a href="?param=produtos#notebook">Notebooks e Periféricos</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#iphone">Apple iphone</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#samsung">Samsung</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#galaxy">Samsung Galaxy A</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#xiaomi">Xiaomi</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#Redmi">Redmi</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#poco">Poco</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#motorola">Motorola</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#videogames">Videogames/jogos</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#notebook">Notebooks/Periféricos</a></li>
                 </ul>
             </aside>
         </div>
         <div>
             <section class="margin-top text-center">
                 <p class="texto-produtos text-center">Abaixo começa nosso catálogo de produtos caso queira apenas ver
-                    aproveite! mas caso você já tenha algum produto em mente a <strong>esquerda</strong> da sua tela
+                    aproveite! mas caso você já tenha algum produto em mente a <strong class="desktop-text">esquerda</strong><strong class="mobile-text">Abaixo</strong> da sua tela
                     você terá um <strong>atalho</strong> que ao clicar em alguma marca ou itens desejados será
                     direcionado para o item ou marca desejada, <strong>quando escolher um produto e quiser comprar
                         aperte na imagem do item e será direcionado até a área de contato da nossa loja!</strong></p>
@@ -27,6 +27,20 @@
             </section>
         </div>
     </div>
+    <aside class="hidden"> 
+                <ul class="list-group">
+                    <h5 class="text-center">Atalho:</h5>
+                    <li class="list-group-item"><a href="?param=produtos#iphone">Apple iphone</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#samsung">Samsung</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#galaxy">Samsung Galaxy A</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#xiaomi">Xiaomi</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#Redmi">Redmi</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#poco">Poco</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#motorola">Motorola</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#videogames">Videogames/jogos</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#notebook">Notebooks/Periféricos</a></li>
+                </ul>
+            </aside>
     <section>
         <h1 class="text-center subtitulo" id="iphone">Apple iPhone:</h1>
         <?php
@@ -38,7 +52,7 @@
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
                             <img src="<?= $apple['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -82,7 +96,7 @@
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
                             <img src="<?= $sam['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -126,7 +140,7 @@
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
                             <img src="<?= $galaxy['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -170,7 +184,7 @@
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
                             <img src="<?= $xia['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -214,7 +228,7 @@
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format3">
                             <img src="<?= $Red['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -258,7 +272,7 @@
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
                             <img src="<?= $po['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -302,7 +316,7 @@
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
                             <img src="<?= $moto['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -339,14 +353,15 @@
             }
             ?>
         </div>
-        <h1 class="text-center subtitulo" id="videogames">Videogames e jogos:</h1>
-        <div class="row">
+        <h1 class="text-center subtitulo mobile-hidden">Videogames/jogos:</h1>
+        <h1 class="text-center subtitulo hidden">Videogames</h1>
+        <div class="row" id="videogames">
             <?php
             foreach ($videogame as $index => $game) {
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format3">
                             <img src="<?= $game['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -383,13 +398,14 @@
             }
             ?>
         </div>
+        <h1 class="text-center subtitulo hidden">Jogos:</h1>
         <div class="row">
             <?php
             foreach ($jogos as $index => $jogo) {
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format3">
                             <img src="<?= $jogo['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -426,14 +442,15 @@
             }
             ?>
         </div>
-        <h1 class="text-center subtitulo" id="notebook">Notebooks e Periféricos:</h1>
-        <div class="row">
+        <h1 class="text-center subtitulo mobile-hidden">Notebooks/Periféricos:</h1>
+        <h1 class="text-center subtitulo hidden">Notebooks:</h1>
+        <div class="row" id="notebook">
             <?php
             foreach ($notebooks as $index => $note) {
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
                             <img src="<?= $note['imagem'] ?>" alt="" width="100%" class="card-img-top">
@@ -470,13 +487,14 @@
             }
             ?>
         </div>
+        <h1 class="text-center subtitulo hidden">Periféricos:</h1>
         <div class="row">
             <?php
             foreach ($perifericos as $index => $peri) {
               
                 $accordionId = "accordion" . $index;
                 ?>
-                <div class="col-12 col-md-3 mb-4">
+                <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
                             <img src="<?= $peri['imagem'] ?>" alt="" width="100%" class="card-img-top">
