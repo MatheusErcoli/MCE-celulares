@@ -55,7 +55,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
-                            <img src="<?= $apple['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $apple['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $apple['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -99,7 +99,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
-                            <img src="<?= $sam['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $sam['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $sam['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -143,7 +143,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
-                            <img src="<?= $galaxy['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $galaxy['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $galaxy['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -187,7 +187,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
-                            <img src="<?= $xia['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $xia['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $xia['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -231,7 +231,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format3">
-                            <img src="<?= $Red['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $Red['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $Red['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -275,7 +275,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
-                            <img src="<?= $po['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $po['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $po['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -319,7 +319,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
-                            <img src="<?= $moto['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $moto['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $moto['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -364,7 +364,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format3">
-                            <img src="<?= $game['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $game['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $game['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -408,7 +408,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format3">
-                            <img src="<?= $jogo['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $jogo['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $jogo['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -453,7 +453,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
-                            <img src="<?= $note['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $note['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $note['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
@@ -497,7 +497,7 @@
                 <div class="col-6 col-md-3 mb-4">
                     <a href="contato" class="text-decoration-none">
                         <div class="card card-format2">
-                            <img src="<?= $peri['imagem'] ?>" alt="" width="100%" class="card-img-top">
+                            <img src="<?= $peri['imagem'] ?>" alt="" width="100%" class="card-img-top" alt="<?= $peri['alt'] ?>">
                     </a>
                     <div class="card-body fundo">
                         <p class="link-produto fw-bold">
