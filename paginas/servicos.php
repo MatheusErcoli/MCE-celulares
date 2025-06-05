@@ -4,7 +4,6 @@
     <h2 class="titulo mobiletitle">Assistência Especializada</h2>
     <p class="paragrafo">Na MCE Celulares, oferecemos um serviço de assistência técnica especializada para garantir que o seu smartphone volte a funcionar perfeitamente, com a segurança e a qualidade que você merece.</p>
     <p class="paragrafo">Caso o celular tenha dado problema procure nos para resolvermos seu problema aqui fazemos troca de display, bateria, sitemas e muito mais!</p>
-    <a href="contato" class="btn btn-purple text-center">Entre em Contato</a>
     </div>
     <div class="col-12 col-md-6">
         <img src="imagens/carrossel3.jpg" class="imagem" alt="celular consertando">

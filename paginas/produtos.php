@@ -4,7 +4,7 @@
             <aside> 
                 <ul class="list-group">
                     <h5 class="text-center">Atalho:</h5>
-                    <li class="list-group-item"><a href="?param=produtos#iphone">Apple iphone</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#iphone">Apple</a></li>
                     <li class="list-group-item"><a href="?param=produtos#samsung">Samsung</a></li>
                     <li class="list-group-item"><a href="?param=produtos#galaxy">Samsung Galaxy A</a></li>
                     <li class="list-group-item"><a href="?param=produtos#xiaomi">Xiaomi</a></li>
@@ -19,7 +19,7 @@
         <div>
             <section class="margin-top text-center">
                 <p class="texto-produtos text-center">Abaixo começa nosso catálogo de produtos caso queira apenas ver
-                    aproveite! mas caso você já tenha algum produto em mente a <strong class="desktop-text">esquerda</strong><strong class="mobile-text">Abaixo</strong> da sua tela
+                    aproveite! mas se você já tenha algum produto em mente a <strong class="desktop-text">esquerda</strong><strong class="mobile-text">Abaixo</strong> da sua tela
                     você terá um <strong>atalho</strong> que ao clicar em alguma marca ou itens desejados será
                     direcionado para o item ou marca desejada, <strong>quando escolher um produto e quiser comprar
                         aperte na imagem do item e será direcionado até a área de contato da nossa loja!</strong></p>
@@ -30,7 +30,7 @@
     <aside class="hidden"> 
                 <ul class="list-group">
                     <h5 class="text-center">Atalho:</h5>
-                    <li class="list-group-item"><a href="?param=produtos#iphone">Apple iphone</a></li>
+                    <li class="list-group-item"><a href="?param=produtos#iphone">Apple</a></li>
                     <li class="list-group-item"><a href="?param=produtos#samsung">Samsung</a></li>
                     <li class="list-group-item"><a href="?param=produtos#galaxy">Samsung Galaxy A</a></li>
                     <li class="list-group-item"><a href="?param=produtos#xiaomi">Xiaomi</a></li>
@@ -42,7 +42,7 @@
                 </ul>
             </aside>
     <section>
-        <h1 class="text-center subtitulo" id="iphone">Apple iPhone:</h1>
+        <h1 class="text-center subtitulo" id="iphone">Apple:</h1>
         <?php
         require "array.php";
         ?>

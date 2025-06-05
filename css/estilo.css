@@ -145,7 +145,7 @@ footer{
     text-align: left !important;
 }
 .mobiletitle {
-    margin-top: 110px;
+    margin-top: 150px;
 }
 
 .paragrafo{
@@ -175,6 +175,9 @@ iframe{
         margin-top: 100px !important;
     }
     .paragrafo {
+        margin-top: 10px;
+        width: 80%;
+        margin: auto;
         font-size: 18px;
         text-align: center !important;
     }
@@ -228,7 +231,7 @@ aside{
     color: white;
     border-radius: 20px;
     padding: 10px 30px;
-    width: 60%;
+    width: 50%;
     margin: auto;
 }
 .texto-produtos{
@@ -319,5 +322,8 @@ aside{
     }
     .mobile-hidden{
         display: none !important;
+    }
+    .subtitulo {
+        width: 60%;
     }
 }
