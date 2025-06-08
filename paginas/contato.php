@@ -1,6 +1,6 @@
 <div class="container">
     <h3 class="titulo-contato text-center">Faça seu Pedido:</h3>
-<form method="get" name="FormCompra" class="needs-validation" novalidate>
+<form  name="FormCompra" class="needs-validation" novalidate action="enviar.php" method="post">
         <div class="row">
        <div class="mb-3 col-md-6 col-12">
         <label for="nome" class="form-label">Nome:</label>
@@ -42,7 +42,7 @@
         </div>
         <div class="mb-3">
         <label for="mensagem" class="form-label">Mensagem:</label>
-        <textarea class="form-control" name="mensagem" id="mensagem" rows="3" required minlength="10"></textarea>
+        <textarea class="form-control" name="mensagem" id="mensagem" rows="3" required minlength="5" placeholder="cite o produto que você quer comprar com sua mensagem..."></textarea>
         <div class="invalid-feedback">
             Por Favor, Insira uma mensagem(pelo menos 10 caracteres).
         </div>
