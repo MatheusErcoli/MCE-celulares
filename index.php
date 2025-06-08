@@ -78,6 +78,7 @@
           <p class="none">RUA MINAS GERAIS - Centro, Corbélia - PR, 85420-000 <br> (45) 99945-7149</p>
           <a href="https://www.instagram.com/mcecelulares/" class="icons" target="_blank"><i class="fa-brands fa-instagram"></i></a>
           <a href="https://www.facebook.com/search/top?q=mce%20celulares" class="icons" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+          <a href="https://wa.me/5544999457149" class="icons" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
         </div>
       </div>
     </div>

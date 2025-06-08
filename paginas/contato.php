@@ -27,7 +27,7 @@
         <div class="row">
         <div class="mb-3 col-md-6 col-12">
         <label for="numero" class="form-label">Telefone:</label>
-        <input type="tel" class="form-control" id="numero" name="numero"required placeholder="Digite seu telefone..." maxlength="11">
+        <input type="tel" class="form-control" id="numero" name="numero"required placeholder="Digite seu telefone..." minlength="14">
         <div class="invalid-feedback">
             Por Favor, Insira um telefone válido.
         </div>
@@ -42,7 +42,7 @@
         </div>
         <div class="mb-3">
         <label for="mensagem" class="form-label">Mensagem:</label>
-        <textarea class="form-control" name="mensagem" id="mensagem" rows="3" required minlength="5" placeholder="cite o produto que você quer comprar com sua mensagem..."></textarea>
+        <textarea class="form-control" name="mensagem" id="mensagem" rows="3" required minlength="10" placeholder="cite o produto que você quer comprar com sua mensagem..."></textarea>
         <div class="invalid-feedback">
             Por Favor, Insira uma mensagem(pelo menos 10 caracteres).
         </div>
