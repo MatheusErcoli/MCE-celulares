@@ -27,7 +27,7 @@
         <div class="row">
         <div class="mb-3 col-md-6 col-12">
         <label for="numero" class="form-label">Telefone:</label>
-        <input type="tel" class="form-control" id="numero" name="numero"required placeholder="Digite seu telefone..." minlength="14">
+        <input type="tel" class="form-control" id="numero" name="numero"required placeholder="Digite seu telefone..." minlength="14" maxlength="15">
         <div class="invalid-feedback">
             Por Favor, Insira um telefone válido.
         </div>

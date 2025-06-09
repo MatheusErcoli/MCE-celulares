@@ -326,6 +326,10 @@ aside{
     .subtitulo {
         width: 60%;
     }
+    .list-group-item {
+        padding: 10px 15px;
+        font-size: 20px;
+    }
 }
 .titulo-contato{
     margin-top: 100px;
