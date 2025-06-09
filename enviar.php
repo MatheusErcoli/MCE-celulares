@@ -20,12 +20,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'mcecelulares@gmail.com'; // <- coloque aqui seu e-mail
-        $mail->Password   = 'mjfy vbzw vust vsmy';     // <- coloque aqui a senha de app
+        $mail->Username   = 'mcecelulares@gmail.com';
+        $mail->Password   = 'mjfy vbzw vust vsmy';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
-        // Configurações do e-mail
+       
         $mail->setFrom('mcecelulares@gmail.com', 'Pedido');
         $mail->addAddress('mcecelulares@gmail.com');
 
