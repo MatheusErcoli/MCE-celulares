@@ -60,7 +60,7 @@
     if (file_exists($pagina)) {
       include($pagina);
     } else {
-      include("paginas/404.php");
+      include("paginas/error.php");
     }
     ?>
   </main>

@@ -335,3 +335,12 @@ aside{
     margin-top: 100px;
     
 }
+.errorimg{
+    text-align: center;
+    justify-content: center;
+}
+.conta{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
