@@ -34,11 +34,9 @@
         </div>
         <div class="mb-3 col-md-6 col-12">
         <label for="cpf" class="form-label">CPF:</label>
-        <input type="text" class="form-control" id="cpf" name="cpf" required placeholder="Digite seu CPF..." pattern="\d{3}\.?\d{3}\.?\d{3}-?\d{2}">
+        <input type="text" class="form-control" id="cpf" name="cpf" required placeholder="Digite seu CPF...">
         </div>
-        <div class="invalid-feedback">
-            Por Favor, Insira um CPF válido.
-        </div>
+        <div id="cpf-erro" class="invalid-feedback"></div>
         </div>
         <div class="mb-3">
         <label for="mensagem" class="form-label">Mensagem:</label>
@@ -65,6 +63,20 @@
         event.stopPropagation()
       }
       form.classList.add('was-validated')
+
+     const cpf = document.getElementById('cpf');
+     const cpferro = document.getElementById('cpf-erro');
+     const cpfRegex = /^\d{3}\.\d{3}\.\d{3}-\d{2}$/;
+     if (!cpfRegex.test(cpf.value)){
+        event.preventDefault();
+        event.stopPropagation();
+        cpferro.textContent = "porfavor insira um cpf válido"
+        cpf.classList.add('is-invalid');
+     }else {
+        cpferro.textContent = '';
+        cpf.classList.remove('is-invalid');
+     }
+
     }, false)
   })
 })()
