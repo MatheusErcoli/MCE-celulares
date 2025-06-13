@@ -35,9 +35,9 @@
     </div>
 
     <div class="mb-3">
-      <label for="mensagem" class="form-label">Mensagem:</label>
-      <textarea class="form-control" name="mensagem" id="mensagem" rows="3" required minlength="10" placeholder="Cite o produto que você quer comprar com sua mensagem..."></textarea>
-      <div class="invalid-feedback">Por favor, insira uma mensagem (pelo menos 10 caracteres).</div>
+      <label for="mensagem" class="form-label">Produto desejado: </label>
+      <textarea class="form-control" name="mensagem" id="mensagem" rows="3" required minlength="5" placeholder="Digite seu Produto..."></textarea>
+      <div class="invalid-feedback">Por favor, insira uma mensagem (pelo menos 5 caracteres).</div>
     </div>
 
     <button class="btn btn-purple mt-3" type="submit">Enviar</button>
